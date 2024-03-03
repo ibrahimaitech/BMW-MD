@@ -1,11 +1,11 @@
- <h1 align="center"> FLASH-MD </h1>
-<p align="center"> FLASH-MD, A Simple WhatsApp user BOT, Created by France King.
+ <h1 align="center"> IBRAHIM-AI-10.10 </h1>
+<p align="center"> IBRAHIM-AI-10.10, A Simple WhatsApp user BOT, Created by France King.
 </p>
 
-### When you Receive your session ID, replace ZOKOU-MD-WHATSAPP-BOT with ***FLASH-MD-WA-BOT***
+#
 
 
-<img src="https://telegra.ph/file/3f985014b51b3cf335bfe.jpg" width="700" height="300"/>
+<img src="https://telegra.ph/file/090fa0905ff1a111c0195.jpg" width="700" height="300"/>
 
 
 
@@ -25,12 +25,12 @@ Contributions to Flash-Md are welcome! If you have ideas for new features, impro
 
 ## License
 
-The FLASH-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+The IBRAHIM-AI-10.10 is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the Flash-Md  to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the IBRAHIM-AI-10.10  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
 
-- [**France King**](https://instagram.com/france.king1)
-- [**WhatsApp**](https://wa.me/254751284190)
+- [**IBRAHIM-AI-10.10**](+254710772666)
+- [**WhatsApp**](+254710772666)
 
