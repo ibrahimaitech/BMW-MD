@@ -41,12 +41,14 @@ const date = moment().format('DD/MM/YYYY');
 ╰─────✨✨✨✨✨─────◆ \n\n`;
 
     let menuMsg=`  
+
 ◇                             ◇
 `;
+
     for (const cat in coms) {
         menuMsg += `*╭────❏* *${cat}* *❏⊷*`;
         for (const cmd of coms[cat]) {
-            menuMsg += `
+            menuMsg += `  
 *|☬* ${cmd}`;
         }
         menuMsg += `
