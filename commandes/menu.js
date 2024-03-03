@@ -39,12 +39,7 @@ const date = moment().format('DD/MM/YYYY');
 ↱☬ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ✨ [👑𝗞𝗜𝗡𝗚-𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗-7.7𝗪👑]
 ╰─────✨✨✨✨✨─────◆ \n\n`;
-
-  let menuMsg=`  
-✨                             ✨
-`;
-
-    for (const cat in coms) {
+   for (const cat in coms) {
         menuMsg += `*╭────❏* *${cat}* *❏⊷*`;
         for (const cmd of coms[cat]) {
             menuMsg += `
