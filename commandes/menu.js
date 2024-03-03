@@ -42,7 +42,7 @@ const date = moment().format('DD/MM/YYYY');
 
     let menuMsg=`  
 
-◇                             ◇
+✨➽➽➽➽➽➽➽➽➽➽➽➽➽➽➽↰✨
 `;
 
     for (const cat in coms) {
