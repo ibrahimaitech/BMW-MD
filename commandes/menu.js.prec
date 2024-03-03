@@ -33,9 +33,9 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
     
     
       
-    ╚═════ ▓▓ ࿇ ▓▓ ═════╝*/
+    ╚═════ 💎💎 👑 💎💎 ═════╝*/
     /* menuMsg+=`
-   ╔════ ▓▓ ࿇FLASH-MD࿇ ▓▓ ════╗
+   ╔════ 💎💎 👑IBRAHIM-AI 💎💎 ════╗
   
    ||     Préfixe : ${s.prefixe}
    ||      Owner : ${s.OWNER_NAME}
@@ -45,9 +45,9 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
    ||      Mém: ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}                   {Plateforme : ${os.platform()}
    ||  Developer : France King 
    ||
-   ╚════ ▓▓ ࿇ ▓▓ ════╝`;*/
+   ╚════ 💎💎 👑 💎💎 ════╝`;*/
     menuMsg += `
-╔════----*FLASH-MD-----
+╔════----*IBRAHIM-AI-----
 ║    Préfixe : ${s.PREFIXE}
 ║    Owner : ${s.OWNER_NAME}    
 ║    Mode : ${mode}
