@@ -31,22 +31,22 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧𝐅𝐋𝐀𝐒𝐇-𝐌𝐃✧────◆
-│༄ *Préfix* : ${s.PREFIXE}
-│༄ *User* : ${s.OWNER_NAME}
-│༄ *Mode* : ${mode}
-│༄ *Commands* : ${cm.length} 
-│༄ *Date* : ${date}
-│༄ *Time* : ${temps} 
-│༄ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│༄ *Platform* : ${os.platform()}
-│༄ *Developer* : 𝐅𝐫𝐚𝐧𝐜𝐞 𝐊𝐢𝐧𝐠 
-│༄ *Version* : 𝐯7.5.20
-╰─────✧The-GOAT✧─────◆ \n\n`;
+╭────{IBRAHIM-AI}────👑
+│👑KING IBRAHIM AI-10.10
+│👑 *User* : ${s.OWNER_NAME}
+│👑 *Mode* : ${mode}
+│👑 *Commands* : ${cm.length} 
+│👑 *Date* : ${date}
+│👑 *Time* : ${temps} 
+│👑 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+│👑 *Platform* : ${os.platform()}
+│👑 *Developer* : IBRAHIM ADAMS 
+│👑 KING'S TECH
+╰─────✧KING AI✧─────◆ \n\n`;
 
   let menuMsg=`  
 
-*FLASH-MD COMMANDS :*
+*LEGIT BOT :*
 ◇                             ◇
 `;
 
@@ -54,7 +54,7 @@ const date = moment().format('DD/MM/YYYY');
         menuMsg += `*╭────❏* *${cat}* *❏⊷*`;
         for (const cmd of coms[cat]) {
             menuMsg += `
-*|༄* ${cmd}`;
+*|💎* ${cmd}`;
         }
         menuMsg += `
 *╰═════════════⊷* \n`
@@ -62,7 +62,7 @@ const date = moment().format('DD/MM/YYYY');
 
     menuMsg += `
 ◇            ◇
-*————— ★ —————*
+*————— 👑 —————*
 
   *📌Made by France King®🐐*                                         
 *╰═════════════⊷*
