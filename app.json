@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"IBRAHIM-AI",
+      "value":"𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/916729f0786c6df70362c.jpg",
+      "value":"https://telegra.ph/file/c66d12099fb7a4f62d70a.jpg",
       "required":false
        
      },
