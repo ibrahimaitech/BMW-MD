@@ -1,7 +1,7 @@
  <h1 align="center"> IBRAHIM-AI-10.10 </h1>
 <p align="center"> IBRAHIM-AI-10.10, A Simple WhatsApp user BOT, Created by France King.
 </p>
-NOTE!!: PLEASE WHEN YOU GET A SESSION REPLACE THIS 👉👉 Zokou-MD-WHATSAPP-BOT WITH THIS 👉👉FLASH-MD-WA-BOT
+NOTE!!: PLEASE WHEN YOU GET A SESSION REPLACE THIS 👉👉 Zokou-MD-WHATSAPP-BOT    WITH THIS 👉👉FLASH-MD-WA-BOT
 #
 
 
