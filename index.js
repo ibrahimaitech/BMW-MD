@@ -868,7 +868,7 @@ ${metadata.desc}`;
 ┃ *Thank you for choosing IBRAHIM-TECH*
 ┃
 ┃
-┃ Join The Official WhatsApp Group https://chat.whatsapp.com/CtBGmUkwXiA6kGYAyU5MaX
+┃ Join The Official WhatsApp Group https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj
 ╰═════════════════⊷`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
