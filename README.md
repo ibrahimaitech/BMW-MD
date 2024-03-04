@@ -10,19 +10,22 @@
 
 ### Setup
 
-1. Deploy on Heroku
+1, Fork the repo
+
    ***Click [`FORK`](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/tree/main) and `Star 👑 Repository` for Courage.***
- 👑  
- 👑 
- 👑  
- 👑 ***Click [`Get Session`](https://pairing2.onrender.com)and `use pairing code` then enter it through the "WhatsApp Linked Devices" option in your WhatsApp app.***
-   👑 (You will get a session ID in WhatsApp, copy the session ID only.)
-   👑
-   👑
-   👑
-   👑
-   👑
- - ***Now {*DEPLOY*}(https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/tree/main).***
+  
+
+
+2, Scan the code and link it with your Whatsapp.
+
+
+  ***Click [`Get Session`](https://pairing2.onrender.com)and `use pairing code` then enter it through the "WhatsApp Linked Devices" option in your WhatsApp app.***
+    
+   
+3, Copy the session and deploy on heroku.  
+
+   
+ - ***Now (DEPLOY)(https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/tree/main).***
 
 
 ## Contributions
@@ -37,6 +40,6 @@ Enjoy the diverse features of the IBRAHIM-AI-10.10  to enhance your conversation
 
 ## Developer:
 
-- [**IBRAHIM-AI-10.10**](+254710772666)
-- [**WhatsApp**](+254710772666)
+- <h1 align="center"> [**IBRAHIM-AI-10.10**](+254710772666)
+- <h1 align="center"> [**WhatsApp**](+254710772666)
 
