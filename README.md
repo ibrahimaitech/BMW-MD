@@ -25,7 +25,7 @@
 3, Copy the session and deploy on heroku.  
 
    
- - ***Now (DEPLOY)(https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/tree/main).***
+ - ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/tree/main).***
 
 
 ## Contributions
@@ -40,6 +40,6 @@ Enjoy the diverse features of the IBRAHIM-AI-10.10  to enhance your conversation
 
 ## Developer:
 
-- <h1 align="center"> [**IBRAHIM-AI-10.10**](+254710772666)
-- <h1 align="center"> [**WhatsApp**](+254710772666)
+- <h1 align="center"> [**SUPPORTED GROUP**](https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj)
+- <h1 align="center"> [**WhatsApp**](https://wa.me/message/74F2PC4JA4F3P1)
 
