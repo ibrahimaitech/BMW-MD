@@ -165,7 +165,7 @@ setTimeout(() => {
             
             var dev = [FranceKing, FranceKing1,FranceKing2,FranceKing3].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{FLASH-MD}...[][]");
+            console.log("\t [][]...{IBRAHIM-TECH}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message from the group : " + nomGroupe);
@@ -428,7 +428,7 @@ function mybotpic() {
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
-                                        pack: 'Flash-Md',
+                                        pack: 'IBRAHIM-TECH',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
                                         categories: ['🤩', '🎉'],
@@ -526,7 +526,7 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'Flash-Md',
+                pack: 'IBRAHIM-TECH',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -663,14 +663,14 @@ zk.ev.on('group-participants.update', async (group) => {
     try {
         ppgroup = await zk.profilePictureUrl(group.id, 'image');
     } catch {
-        ppgroup = 'https://telegra.ph/file/4cc2712eee93c105f6739.jpg';
+        ppgroup = 'https://telegra.ph/file/c66d12099fb7a4f62d70a.jpg';
     }
 
     try {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `╭═══◇FLASH-MD◇═══⊷
+            let msg = `╭═══◇IBRAHIM-TECH◇═══⊷
 `;
              
             let membres = group.participants;
@@ -681,7 +681,7 @@ zk.ev.on('group-participants.update', async (group) => {
             msg += `║ *You are welcomed here* _You MAY read the group description FOR more info and Avoid getting removed_
             
      
- ╰═══◇France-King◇═══⊷
+ ╰═══◇IBRAHIM-TECH◇═══⊷
             
  ◇ *GROUP DESCRIPTION*  ◇
 
@@ -855,8 +855,8 @@ ${metadata.desc}`;
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `╭════⊷
-║ *『𝐅𝐋𝐀𝐒𝐇-𝐌𝐃 is CONNECTED』*
-║    Creator: *France King*
+║ *『IBRAHIM-TECH is CONNECTED』*
+║    Creator: *Ibrahim adams*
 ║    Prefix : [ ${prefixe} ]
 ║    Mode :${md}
 ║    Total Commands : ${evt.cm.length}︎
@@ -865,7 +865,7 @@ ${metadata.desc}`;
 ╭───◇
 ┃ 
 ┃
-┃ *Thank you for choosing 𝐅𝐋𝐀𝐒𝐇-𝐌𝐃*
+┃ *Thank you for choosing IBRAHIM-TECH*
 ┃
 ┃
 ┃ Join The Official WhatsApp Group https://chat.whatsapp.com/CtBGmUkwXiA6kGYAyU5MaX
