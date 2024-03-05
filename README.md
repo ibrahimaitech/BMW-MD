@@ -25,7 +25,7 @@
 3, Copy the session and deploy on heroku.  
 
    
- - ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/tree/main).***
+ - ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/IBRAHIM-AI-10.10).***
 
 
 ## Contributions
