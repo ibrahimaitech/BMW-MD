@@ -1,5 +1,5 @@
 {
-  "name": "FLASH-MD",
+  "name": "IBRAHIM-TECH",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -12,7 +12,7 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Flash-Md",
+    "Ibrahim-tech",
     "whatsapp",
     "whatsapp-bot",
     "franceking1"
@@ -23,7 +23,7 @@
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^10.0.1",
     "@types/node": "^18.0.6",
-    "@whiskeysockets/baileys": "github:Faouz995/Baileys",
+    "@whiskeysockets/baileys": "github:Ibrahimaitech/Baileys",
     "@xaviabot/fb-downloader": "^1.0.14",
     "aptoide-scraper": "^1.0.1",
     "axios": "^1.4.0",
