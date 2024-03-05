@@ -9,8 +9,9 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/ibrahimaitech/IBRAHIM-AI-10.10.englishV  /root/IBRAHIM-TECH
-WORKDIR /root/IBRAHIM-TECH/
+RUN  git clone https://github.com/Faouz995/Zokou-2.0-englishV  /root/Zokou_BOt
+WORKDIR /root/Zokou_Bot/
+
 
 
 COPY package.json .
