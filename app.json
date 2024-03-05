@@ -3,7 +3,7 @@
   "description":"bot whatsapp développé par France King",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/090fa0905ff1a111c0195.jpg",
-  "repository":"https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/tree/main",
+  "repository":"https://github.com/ibrahimaitech/IBRAHIM-AI-10.10",
   "succes_url":"/",
   "stack":"container",
   "env":{
