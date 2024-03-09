@@ -191,6 +191,16 @@ setTimeout(() => {
             {await zk.sendPresenceUpdate("available",origineMessage);}
             else if(etat==2)
             {await zk.sendPresenceUpdate("composing",origineMessage);}
+            else if(etat==4)
+            {await zk.sendPresenceUpate("sleeping ",origineMessage);}
+            else if(etat==5)
+            {await zk.sendPresenceUpate("lying ",origineMessage);}
+            else if(etat==6)
+            {await zk.sendPresenceUpate("fighting ",origineMessage);}
+            else if(etat==7)
+            {await zk.sendPresenceUpate("hacking ",origineMessage);}
+            else if(etat==8)
+            {await zk.sendPresenceUpate("laughing ",origineMessage);}
             else if(etat==3)
             {
             await zk.sendPresenceUpdate("recording",origineMessage);
