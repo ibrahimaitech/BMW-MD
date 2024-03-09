@@ -5,14 +5,14 @@ const { writeFile } = require('fs/promises')
 
 // Commande waifu
 zokou({
-  nomCom: "waifu",
+  nomCom: "Ibrahimking",
   categorie: "Weeb",
   reaction: "😏"
 },
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
 
-  const url = 'https://api.waifu.pics/sfw/waifu'; // Remplacez avec le lien réel de l'API waifu.pics
+  const url = 'https://telegra.ph/file/67867a68063334c516894.jpg'; // Remplacez avec le lien réel de l'API waifu.pics
 
   try {
     
@@ -29,14 +29,14 @@ async (origineMessage, zk, commandeOptions) => {
 
 // Commande neko
 zokou({
-  nomCom: "neko",
+  nomCom: "Ibrahimadams",
   categorie: "Weeb",
-  reaction: "😺"
+  reaction: "☣"
 },
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
 
-  const url = 'https://api.waifu.pics/sfw/neko'; // Remplacez avec le lien réel de l'API waifu.pics ou une autre API de nekos
+  const url = 'https://telegra.ph/file/eb92cca50f07bb52f030d.jpg'; // Remplacez avec le lien réel de l'API waifu.pics ou une autre API de nekos
 
   try {
     for (let i = 0; i < 5; i++) {
@@ -52,14 +52,14 @@ async (origineMessage, zk, commandeOptions) => {
 
 // Commande shinobu
 zokou({
-  nomCom: "shinobu",
+  nomCom: "king",
   categorie: "Weeb",
-  reaction: "🦋"
+  reaction: "👑"
 },
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
 
-  const url = 'https://api.waifu.pics/sfw/shinobu'; // Remplacez avec le lien réel de l'API waifu.pics ou une autre API avec des images de Shinobu
+  const url = 'https://telegra.ph/file/b36524472cabd4541d399.jpg'; // Remplacez avec le lien réel de l'API waifu.pics ou une autre API avec des images de Shinobu
 
   try {
     for (let i = 0; i < 5; i++) {
@@ -75,14 +75,14 @@ async (origineMessage, zk, commandeOptions) => {
 
 // Commande megumin
 zokou({
-  nomCom: "megumin",
+  nomCom: "Ibraah",
   categorie: "Weeb",
-  reaction: "💥"
+  reaction: "☣"
 },
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
 
-  const url = 'https://api.waifu.pics/sfw/megumin'; // Remplacez avec le lien réel de l'API waifu.pics ou une autre API avec des images de Megumin
+  const url = 'https://telegra.ph/file/87f7a9aab043c0a4d3ee1.jpg'; // Remplacez avec le lien réel de l'API waifu.pics ou une autre API avec des images de Megumin
 
   try {
     for (let i = 0; i < 5; i++) {
@@ -99,9 +99,9 @@ async (origineMessage, zk, commandeOptions) => {
 
 
 zokou({
-  nomCom: "cosplay",
+  nomCom: "kingibrahim",
   categorie: "Weeb",
-  reaction: "😏"
+  reaction: "☣"
 },
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
@@ -110,7 +110,7 @@ async (origineMessage, zk, commandeOptions) => {
 
   try {
     for (let i = 0; i < 5; i++) {
-      let url = 'https://fantox-cosplay-api.onrender.com/'
+      let url = 'https://telegra.ph/file/ecc3e71f3e224e2ead026.jpg'
       
    const response = await   axios.get(url, { responseType: 'arraybuffer' })
 
@@ -127,8 +127,8 @@ async (origineMessage, zk, commandeOptions) => {
 });
 
 
-zokou({nomCom:"couplepp",categorie: "Weeb",reaction : "💞"},async(dest,zk,commandeOptions)=>{ const {repondre , ms} = commandeOptions;
-    let api = 'https://smiling-hosiery-bear.cyclic.app/weeb/couplepp'
+zokou({nomCom:"king",categorie: "Weeb",reaction : "💞"},async(dest,zk,commandeOptions)=>{ const {repondre , ms} = commandeOptions;
+    let api = 'https://telegra.ph/file/ecc3e71f3e224e2ead026.jpg'
   try {
      repondre('she/he dont love you :)')
  const result = await axios.get(api)
