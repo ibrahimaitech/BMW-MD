@@ -790,7 +790,7 @@ ${metadata.desc}`;
 
                  
                 },{
-                    timezone: "Africa/Nairobi"
+                    timezone: "BUNGOMA/KENYA"
                   });
               }
         
