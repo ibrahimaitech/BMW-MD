@@ -4,7 +4,7 @@ const { zokou } = require("../framework/zokou");
 zokou({ nomCom: "Ibraah", reaction: "📷", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
     let z = 'IBRAAH-HD-PHOTO \n\n ' + "*ⁱᵇʳᵃʰⁱᵐ-ᵗᵉᶜʰ.*";
-    let d = ' #KING'S';
+    let d = ' #KING';
     let varmess = z + d;
     var img = 'https://telegra.ph/file/67867a68063334c516894.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
