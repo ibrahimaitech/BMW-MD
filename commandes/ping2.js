@@ -1,4 +1,4 @@
-const { bot } = require('../lib/')
+const {zokou} = require("../framework/zokou");
 
 bot(
   {
