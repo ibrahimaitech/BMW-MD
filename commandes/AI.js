@@ -78,12 +78,12 @@ fetch(`http://api.brainshop.ai/get?bid=177607&key=NwzhALqeO1kubFVD&uid=[uid]&msg
   
     try {
       if (!arg || arg.length === 0) {
-        return repondre(`Please ask a question.`);
+        return repondre(`Please ask a question Ibrahim will answer it.`);
       }
   
       // Regrouper les arguments en une seule chaîne séparée par "-"
       const question = arg.join(' ');
-      const response = await axios.get(`https://vihangayt.me/tools/chatgpt4?q=${question}`);
+      const response = await axios.get(`https://giftedgpt.vercel.app=${question}`);
       
       const data = response.data;
       if (data) {
