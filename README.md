@@ -19,7 +19,8 @@
 2, Scan the code and link it with your Whatsapp.
 
 
-  ***Click [`Get Session`](https://pairing2.onrender.com)and `use pairing code` then enter it through the "WhatsApp Linked Devices" option in your WhatsApp app.***
+  ***Click [`Get Session`](https://ibrahim-tech-pairing-code-2-8fabc717d651.herokuapp.com/). ('Option 1')
+  ***Click [`Get Session`](
     
    
 3, Copy the session and deploy on heroku.  
