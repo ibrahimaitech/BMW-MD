@@ -19,8 +19,13 @@
 2, Scan the code and link it with your Whatsapp.
 
 
-  ***Click [`Get Session`](https://ibrahim-tech-pairing-code-2-8fabc717d651.herokuapp.com/). ('Option 1')
-  ***Click [`Get Session`](
+  ***Click [`Get Session`](https://ibrahim-tech-pairing-code-2-8fabc717d651.herokuapp.com/). ("Option 1")
+  
+  
+  ***Click [`Get Session`](https://ibrahim-tech-qr-1-2-1.onrender.com/). ("Option 2")
+
+
+   ***Click [`Get Session`](https://pairing2.onrender.com/).("Option 3")
     
    
 3, Copy the session and deploy on heroku.  
