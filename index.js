@@ -47,7 +47,7 @@ const  {addGroupToBanList,isGroupBanned,removeGroupFromBanList} = require("./bdd
 const {isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList} = require("./bdd/onlyAdmin");
 //const //{loadCmd}=require("/framework/mesfonctions")
 let { reagir } = require(__dirname + "/framework/app");
-var session = conf.session.replace(/FLASH-MD-WA-BOT;;;=>/g,"");
+var session = conf.session.replace(/IBRAHIM-MD-WA-BOT;;;=>/g,"");
 const prefixe = conf.PREFIXE;
 
 
@@ -165,7 +165,7 @@ setTimeout(() => {
             
             var dev = [FranceKing, FranceKing1,FranceKing2,FranceKing3].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{FLASH-MD}...[][]");
+            console.log("\t [][]...{IBRAHIM-MD}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message from the group : " + nomGroupe);
@@ -670,7 +670,7 @@ zk.ev.on('group-participants.update', async (group) => {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `◇FLASH-MD◇
+            let msg = `◇IBRAHIM-MD◇
 `;
              
             let membres = group.participants;
@@ -688,11 +688,11 @@ zk.ev.on('group-participants.update', async (group) => {
 
 ${metadata.desc}
 
-📌Powred by *France King®🐐*`;
+📌Powred by *Ibrahim King*`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
-            let msg = `Goodbye to that Fallen soldier, Powered by *FLASH-MD*;\n`;
+            let msg = `Goodbye to that Fallen soldier, Powered by *𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗*;\n`;
 
             let membres = group.participants;
             for (let membre of membres) {
@@ -858,29 +858,27 @@ ${metadata.desc}
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
-*『𝐅𝐋𝐀𝐒𝐇-𝐌𝐃 is CONNECTED』*
+*『𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗 CONNECTED 』*
 
      
-║❒Creator: *France King*
+║❒Creator: *IBRAHIM ADAMS*
 ║❒Prefix : [ ${prefixe} ]
 ║❒Mode :${md}
 ║❒Created on : *22.2.2024*
 ║❒Total Commands : ${evt.cm.length}︎
 
-     ▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚
-     ▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚
+   
  
-║❒ _Join *FLASH-MD* Channel for Updates_
-https://whatsapp.com/channel/0029VaTbb3p84Om9LRX1jg0P
+
 
 ║❒ *JOIN OUR WhatsApp Gʀᴏᴜᴘ*
-https://chat.whatsapp.com/CtBGmUkwXiA6kGYAyU5MaX
+https://chat.whatsapp.com/L0ctUUVLlsrFYwBHApKfew
 
 ║❒ *FOLLOW THE DEVELOPER* 🪄 
 https://instagram.com/france.king1 
 
 
-              *𝐅𝐋𝐀𝐒𝐇-𝐌𝐃*`;
+              *𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗*`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
