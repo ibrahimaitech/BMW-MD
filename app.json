@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛",
+      "value":"𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗",
       "required":false
 
     } ,
