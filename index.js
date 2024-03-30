@@ -877,6 +877,11 @@ https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD
 ║❒ *CONTACT THE DEVELOPER* 🪄 
 https://wa.me/message/74F2PC4JA4F3P1
 
+║❒ *YOUTUBE*
+https://www.youtube.com/@ibrahimaitech
+
+
+
 
               *𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗*`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
