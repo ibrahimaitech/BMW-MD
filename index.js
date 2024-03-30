@@ -872,10 +872,10 @@ ${metadata.desc}
 
 
 ║❒ *JOIN OUR WhatsApp Gʀᴏᴜᴘ*
-https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj
+https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD
 
 ║❒ *CONTACT THE DEVELOPER* 🪄 
-https://wa.me/message/74F2PC4JA4F3P1 
+https://wa.me/message/74F2PC4JA4F3P1
 
 
               *𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗*`;
