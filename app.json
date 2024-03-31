@@ -2,7 +2,7 @@
   "name":"IBRAHIM-AI-10.10",
   "description":"bot whatsapp développé par France King",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/090fa0905ff1a111c0195.jpg",
+  "logo":"https://telegra.ph/file/5f0ea916ff35ebaf873f6.jpg",
   "repository":"https://github.com/ibrahimaitech/IBRAHIM-AI-10.10",
   "succes_url":"/",
   "stack":"container",
@@ -17,12 +17,12 @@
     {
       "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
       "value":"yes",
-      "required":false
+      "required":true
     }, "AUTO_DOWNLOAD_STATUS":
     {
       "description":"Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
       "value":"no",
-      "required":false
+      "required":true
     }
     ,
      "PM_PERMIT" :
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/75c2f32d509575f860084.jpg",
+      "value":"https://telegra.ph/file/5f0ea916ff35ebaf873f6.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "MR IBRAHIM"
+    "value": "MR mwas"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254710772666"
+    "value": "+97450336247"
   },
     "WARN_COUNT":
   {
