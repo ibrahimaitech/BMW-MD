@@ -1,8 +1,8 @@
 {
-  "name":"IBRAHIM-AI-10.10",
+  "name":"BMW MD💥",
   "description":"bot whatsapp développé par France King",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/090fa0905ff1a111c0195.jpg",
+  "logo":"https://telegra.ph/file/8825dbddf23e4be4ca05d.jpg",
   "repository":"https://github.com/ibrahimaitech/IBRAHIM-AI-10.10",
   "succes_url":"/",
   "stack":"container",
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗",
+      "value":"BMW-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/75c2f32d509575f860084.jpg",
+      "value":"https://telegra.ph/file/8825dbddf23e4be4ca05d.jpg",
       "required":false
        
      },
