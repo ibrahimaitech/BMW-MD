@@ -1,5 +1,5 @@
 {
-  "name": "FLASH-MD",
+  "name": "BMW-MD",
   "version": "2.0.0",
   "description": "",
   "main": "flash.js",
@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Flash-Md",
+    "Bmw-md",
     "whatsapp",
     "whatsapp-bot",
-    "franceking1"
+    "ibrahimaitech"
   ],
-  "author": "France King",
+  "author": "ibrahimartech",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
