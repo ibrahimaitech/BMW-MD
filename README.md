@@ -1,5 +1,5 @@
  <h1 align="center"> BMW MD💥 </h1>
-<p align="center"> BMW MD💥, A Simple WhatsApp user BOT, Created by France King.
+<p align="center"> BMW MD💥, A Simple WhatsApp user BOT, Created by Ibrahim Tech.
 </p>
 
 
