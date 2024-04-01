@@ -1,5 +1,5 @@
- <h1 align="center"> IBRAHIM-AI-10.10 </h1>
-<p align="center"> IBRAHIM-AI-10.10, A Simple WhatsApp user BOT, Created by France King.
+ <h1 align="center"> BMW MD💥 </h1>
+<p align="center"> BMW MD💥, A Simple WhatsApp user BOT, Created by France King.
 </p>
 
 
