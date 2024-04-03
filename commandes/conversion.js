@@ -150,7 +150,7 @@ mediamsg = msgRepondu.videoMessage
   var stick = await zk.downloadAndSaveMediaMessage(mediamsg)
 
      let stickerMess = new Sticker(stick, {
-            pack: 'Flash-Md',
+            pack: 'MBW-MD',
             
             type: StickerTypes.CROPPED,
             categories: ["🤩", "🎉"],
@@ -252,7 +252,7 @@ france({ nomCom: "write", categorie: "Conversion", reaction: "👨🏿‍💻" }
     // Create the sticker
     const stickerMess = new Sticker(meme, {
       pack: nomAuteurMessage,
-      author: 'FLASH-MD',
+      author: 'BMW-MD',
       type: StickerTypes.FULL,
       categories: ["🤩", "🎉"],
       id: "12345",
