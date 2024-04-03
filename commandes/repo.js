@@ -7,7 +7,7 @@ france({ nomCom: "repo", reaction: "🚗", nomFichier: __filename }, async (dest
     
     let d = ' ║❒ *𝗬𝗼𝘂𝗧𝘂𝗯𝗲*https://www.youtube.com/@ibrahimmdgpt*"';
 
-    let b = ' ║❒ *𝗢𝘄𝗻𝗲𝗿*https://wa.me/254710772666*";
+    let b = ' ║❒ *𝗢𝘄𝗻𝗲𝗿*https://www.instagram.com/ibrahim_tech_official*";
 
     let c = ' ║❒ *𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺*https://www.instagram.com/ibrahim_tech_official';
     let varmess = z + d + b + c;
