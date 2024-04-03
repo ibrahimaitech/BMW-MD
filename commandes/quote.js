@@ -13,14 +13,14 @@ france({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) 
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   FLASH-MD              ║
+║   BMW-MD              ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *France King*`);
+Powered by *BMW-MD*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
@@ -33,14 +33,14 @@ Powered by *France King*`);
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   FLASH-MD               ║
+║   BMW-MD               ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by FLASH-MD`);
+Powered by BMW-MD);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
