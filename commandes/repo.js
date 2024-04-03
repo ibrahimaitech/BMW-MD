@@ -6,8 +6,8 @@ france({ nomCom: "repo", reaction: "🚗", nomFichier: __filename }, async (dest
     let z = '𝗢𝘇𝗮𝗮𝗵👊 𝗧𝗵𝗶𝘀 𝗶𝘀 *𝗕𝗠𝗪-𝗠𝗗*  𝗖𝗿𝗲𝗮𝘁𝗲𝗱 𝗯𝘆 *𝗜𝗕𝗥𝗔𝗛𝗜𝗠 𝗔𝗗𝗔𝗠𝗦*🥷 𝗣𝗹𝗲𝗮𝘀𝗲 𝗚𝗶𝘃𝗲 𝗮 𝗦𝘁𝗮𝗿 ✨ 𝗢𝗻 𝗧𝗵𝗲 𝗥𝗲𝗽𝗼 𝗔𝗻𝗱 𝗙𝗼𝗿𝗸 𝗜𝘁 🚗 \n\n ' + "║❒ *𝗥𝗲𝗽𝗼*https://github.com/ibrahimaitech/IBRAHIM-AI-10.10.*";
     let d = ' ║❒ *𝗬𝗼𝘂𝗧𝘂𝗯𝗲*https://www.youtube.com/@ibrahimmdgpt*"';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/a238340352ed8841782a7.jpg';
-    await zk.sendMessage(dest, { image:{ url : img}, caption: varmess });
+    var gif = 'https://telegra.ph/file/a238340352ed8841782a7.jpg';
+    await zk.sendMessage(dest, { video: { url: gif}, caption: varmess });
     //console.log("montest")
 });
 console.log("mon test");
