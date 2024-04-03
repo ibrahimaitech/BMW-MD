@@ -9,8 +9,8 @@ france({ nomCom: "repo", reaction: "🚗", nomFichier: __filename }, async (dest
 
     let b = ' ║❒ *𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺*https://www.instagram.com/ibrahim_tech_official*";
     let varmess = z + d + b;
-    var mp4 = 'https://telegra.ph/file/f12f883e5a5b5273c79f1.mp4*';
-    await zk.sendMessage(dest, { video: { url: mp4 }, caption: varmess });
+    var gif = 'https://telegra.ph/file/f12f883e5a5b5273c79f1.mp4';
+    await zk.sendMessage(dest, { video: { url: gif }, caption: varmess });
     //console.log("montest")
 });
 console.log("mon test");
