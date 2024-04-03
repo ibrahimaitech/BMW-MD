@@ -5,14 +5,14 @@ france({ nomCom: "repo", reaction: "🚗", nomFichier: __filename }, async (dest
     console.log("Commande saisie !!!s");
     let z = '𝗢𝘇𝗮𝗮𝗵👊 𝗧𝗵𝗶𝘀 𝗶𝘀 *𝗕𝗠𝗪-𝗠𝗗*  𝗖𝗿𝗲𝗮𝘁𝗲𝗱 𝗯𝘆 *𝗜𝗕𝗥𝗔𝗛𝗜𝗠 𝗔𝗗𝗔𝗠𝗦*🥷 𝗣𝗹𝗲𝗮𝘀𝗲 𝗚𝗶𝘃𝗲 𝗮 𝗦𝘁𝗮𝗿 ✨ 𝗢𝗻 𝗧𝗵𝗲 𝗥𝗲𝗽𝗼 𝗔𝗻𝗱 𝗙𝗼𝗿𝗸 𝗜𝘁 🚗 \n\n ' + "║❒ *𝗥𝗲𝗽𝗼*https://github.com/ibrahimaitech/IBRAHIM-AI-10.10.*";
     
-    let d = ' ║❒ *𝗬𝗼𝘂𝗧𝘂𝗯𝗲*https://www.youtube.com/@ibrahimmdgpt';
+    let d = ' ║❒ *𝗬𝗼𝘂𝗧𝘂𝗯𝗲*https://www.youtube.com/@ibrahimmdgpt*"';
 
-    let b = ' ║❒ *𝗢𝘄𝗻𝗲𝗿*https://wa.me/254710772666
+    let b = ' ║❒ *𝗢𝘄𝗻𝗲𝗿*https://wa.me/254710772666*";
 
-    let a = ' ║❒ *𝗜𝗚*https://www.instagram.com/ibrahim_tech_official
+    let a = ' ║❒ *𝗜𝗚*https://www.instagram.com/ibrahim_tech_official';
     let varmess = z + d + b + a;
     var mp4 = 'https://telegra.ph/file/f12f883e5a5b5273c79f1.mp4';
-    await zk.sendMessage(dest, { mp4: { url: mp4 }, caption: varmess });
+    await zk.sendMessage(dest, { video: { url: mp4 }, caption: varmess });
     //console.log("montest")
 });
 console.log("mon test");
