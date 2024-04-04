@@ -11,7 +11,7 @@ france(
        const {ms,repondre,superUser , arg} = commandeOptions ;
        
        if(!superUser){repondre('only Mods can use this commande');return};
-       if(!arg[0] || !(arg.join('').split('='))) {repondre('Bad format ; Exemple of using :\nSetvar OWNER_NAME=France King');return};
+       if(!arg[0] || !(arg.join('').split('='))) {repondre('Bad format ; Exemple of using :\nSetvar OWNER_NAME:Ibrahim Tech');return};
      
     const text = arg.join(" ")
      const Heroku = require("heroku-client");
@@ -48,9 +48,9 @@ france(
 			let baseURI = "/apps/" + s.HEROKU_APP_NAME;
 
             let h = await heroku.get(baseURI+'/config-vars')
-let str = '*All my HEROKU Vars*\n\n'
+let str = '*HEROKU VARS LIST *\n\n'
 for (vr in h) {
-str+= '⚡ *'+vr+'* '+'= '+h[vr]+'\n'
+str+= '🚘 *'+vr+'* '+': '+h[vr]+'\n'
 }
  repondre(str)
 
