@@ -110,7 +110,7 @@ fs.unlinkSync(medis)
 
           const sticker = new Sticker(buffer.data, {
             pack: nomAuteurMessage,
-            author: "FLASH-MD",
+            author: "BMW-MD",
             type: StickerTypes.FULL,
             categories: ['🤩', '🎉'],
             id: '12345',
@@ -527,7 +527,7 @@ france({ nomCom: "save", categorie: "OWNER" }, async (dest, zk, commandeOptions)
           let media  = await zk.downloadAndSaveMediaMessage(msgRepondu.stickerMessage)
 
           let stickerMess = new Sticker(media, {
-            pack: 'FLASH-MD',
+            pack: 'BMW-MD',
             type: StickerTypes.CROPPED,
             categories: ["🤩", "🎉"],
             id: "12345",
