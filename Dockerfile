@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/ibrahimaitech/IBRAHIM-AI-10.10.git  /root/FlashMd
+RUN git clone https://github.com/ibrahimaitech/IBRAHIM-AI-10.10.git  /root/BmwMD
 WORKDIR /root/bmwmd/
 
 
