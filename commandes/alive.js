@@ -45,8 +45,9 @@ const date = moment().format('DD/MM/YYYY');
  
  *BMW-MD RUNNING SPEED 3287SP✅*`
 
- var mp4 = 'https://telegra.ph/file/f2075fc21b7df31a29aed.mp4';
-    await zk.sendMessage(dest, { video: { url: mp4 }, caption: alivemsg }, { quoted: ms });
+ if (lien.match(/\.(mp4|gif)$/i)) {
+    try {
+        zk.sendMessage(dest, { video: { url: lien }, caption: alivemsg }, { quoted: ms });
     
     }
     catch (e) {
