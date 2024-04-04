@@ -12,7 +12,7 @@
 
 1, Fork the repo
 
-   ***Click [`FORK`](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/tree/main) and `Star 👑 Repository` for Courage.***
+   ***Click [`FORK`](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10) and `Star 👑 Repository` for Courage.***
   
 
 
