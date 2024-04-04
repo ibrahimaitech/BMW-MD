@@ -44,6 +44,6 @@ Enjoy the diverse features of the IBRAHIM-AI-10.10  to enhance your conversation
 
 ## Developer:
 
-- <h1 align="center"> [**SUPPORTED GROUP**](https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj)
+- <h1 align="center"> [**SUPPORTED GROUP**]([https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj](https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD))
 - <h1 align="center"> [**DM THE OWNER IF HAVING ANY PROBLEM**](https://wa.me/message/74F2PC4JA4F3P1)
 
