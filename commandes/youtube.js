@@ -30,9 +30,21 @@ france({
        let infoMess = {
           image: {url : videos[0]. thumbnail},
          caption : `\n*song name :* _${videos[0].title}_
-       *Url :* _${videos[0].url}_
-     
-      zk.sendMessage(origineMessage,infoMess,{quoted:ms}) ;
+
+*Time :* _${videos[0].timestamp}_
+
+*Url :* _${videos[0].url}_
+
+
+_*DOWNLOADING...*_\n\n`
+       }
+
+      
+
+      
+
+      
+       zk.sendMessage(origineMessage,infoMess,{quoted:ms}) ;
       // Obtenir le flux audio de la vidéo
       const audioStream = ytdl(urlElement, { filter: 'audioonly', quality: 'highestaudio' });
 
@@ -92,7 +104,10 @@ france({
       let InfoMess = {
         image: { url: videos[0].thumbnail },
         caption: `*Video name :* _${Element.title}_
+*Time :* _${Element.timestamp}_
 *Url :* _${Element.url}_
+_*DOWNLOADING...*_\n\n`
+      };
 
       zk.sendMessage(origineMessage, InfoMess, { quoted: ms });
 
