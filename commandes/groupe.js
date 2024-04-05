@@ -29,7 +29,7 @@ france({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, 
   let membresGroupe = verifGroupe ? await infosGroupe.participants : ""
   var tag = ""; 
   tag += `========================\n  
-        🌟 *FLASH-MD* 🌟
+        🌟 *BMW-MD* 🌟
 ========================\n
 👥 Group : ${nomGroupe} 🚀 
 👤 Author : *${nomAuteurMessage}* 👋 
