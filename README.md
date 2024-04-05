@@ -1,10 +1,10 @@
- <h1 align="center"> 💥BMW MD💥 </h1>
-<p align="center"> BMW MD💥, A Simple WhatsApp user BOT, Created by Ibrahim Tech.
+ <h1 align="center"> 💥KYM MD💥 </h1>
+<p align="center"> KYM MD💥, A Simple WhatsApp user BOT, Created by Ibrahim Tech.
 </p>
 
 
 
-<img src="https://telegra.ph/file/a238340352ed8841782a7.jpg" width="700" height="300"/>
+<img src="https://i.imgur.com/sjVyS1j.jpeg" width="700" height="300"/>
 
 ## Support 🧧
 
@@ -15,7 +15,7 @@
 HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me/message/74F2PC4JA4F3P1">
+   <a href="https://wa.me/qr/NKM24JLT7TXMM1">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
