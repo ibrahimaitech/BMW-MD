@@ -248,7 +248,7 @@ france({ nomCom: "remove", categorie: 'Group', reaction: "👨🏿‍💼" }, as
             if (admin == false) {
               const gifLink = "https://raw.githubusercontent.com/djalega8000/france-MD/main/media/remover.gif"
               var sticker = new Sticker(gifLink, {
-                pack: 'FLASH-MD', // The pack name
+                pack: 'BMW-MD', // The pack name
                 author: nomAuteurMessage, // The author name
                 type: StickerTypes.FULL, // The sticker type
                 categories: ['🤩', '🎉'], // The sticker category
@@ -714,7 +714,7 @@ france({nomCom:"hidetag",categorie:'Group',reaction:"🎤"},async(dest,zk,comman
         let media  = await zk.downloadAndSaveMediaMessage(msgRepondu.stickerMessage)
 
         let stickerMess = new Sticker(media, {
-          pack: 'FLASH-MD-tag',
+          pack: 'BMW-MD-tag',
           type: StickerTypes.CROPPED,
           categories: ["🤩", "🎉"],
           id: "12345",
@@ -756,7 +756,7 @@ france({nomCom:"hidetag",categorie:'Group',reaction:"🎤"},async(dest,zk,comman
 });
 
 
-france({ nomCom: "apk", reaction: "✨", categorie: "Recherche" }, async (dest, zk, commandeOptions) => {
+france({ nomCom: "apk", reaction: "📂", categorie: "Recherche" }, async (dest, zk, commandeOptions) => {
   const { repondre, arg, ms } = commandeOptions;
 
   try {
@@ -780,7 +780,7 @@ france({ nomCom: "apk", reaction: "✨", categorie: "Recherche" }, async (dest, 
 
     const downloadLink = appData.dllink;
     const captionText =
-      "『 *FLASH-MD App* 』\n\n*Name :* " + appData.name +
+      "『 *BMW-MD App* 』\n\n*Name :* " + appData.name +
       "\n*Id :* " + appData["package"] +
       "\n*Last Update :* " + appData.lastup +
       "\n*Size :* " + appData.size +
