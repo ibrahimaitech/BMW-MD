@@ -8,11 +8,13 @@
 
 ## Support 🧧
 
-<a href="https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj](https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD)">
+<a href="https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD">
   <img src="https://img.shields.io/badge/Support_Group-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
 HOW TO REACH THE OWNER? 👇👇👇
+ 
+   
    <a href="https://wa.me/message/74F2PC4JA4F3P1">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
