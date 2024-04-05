@@ -51,14 +51,12 @@ HOW TO REACH THE OWNER?
 
 ## Contributions
 
-Contributions to IBRAHIM-AI-10.10 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to *BMW-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 ## License
 
-The IBRAHIM-AI-10.10 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The *BMW-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the IBRAHIM-AI-10.10  to enhance your conversations and make your WhatsApp experience more interesting!
-
-## Developer:
+Enjoy the diverse features of the *BMW-MD*  to enhance your Whatsapp more enjoyable
 
 
