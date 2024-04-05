@@ -6,6 +6,17 @@
 
 <img src="https://telegra.ph/file/a238340352ed8841782a7.jpg" width="700" height="300"/>
 
+## Support 🧧
+
+<a href="https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj](https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD)">
+  <img src="https://img.shields.io/badge/Support_Group-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+HOW TO REACH THE OWNER? 👇👇👇
+   <a href="https://wa.me/message/74F2PC4JA4F3P1">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a
 
 
 ### Setup
@@ -44,6 +55,4 @@ Enjoy the diverse features of the IBRAHIM-AI-10.10  to enhance your conversation
 
 ## Developer:
 
-- <h1 align="center"> [**SUPPORTED GROUP**]([https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj](https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD))
-- <h1 align="center"> [**DM THE OWNER IF HAVING ANY PROBLEM**](https://wa.me/message/74F2PC4JA4F3P1)
 
