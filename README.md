@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Support_Group-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
-HOW TO REACH THE OWNER? 👇👇👇
+HOW TO REACH THE OWNER? 
  
    
    <a href="https://wa.me/message/74F2PC4JA4F3P1">
@@ -20,10 +20,10 @@ HOW TO REACH THE OWNER? 👇👇👇
   </a>&nbsp;&nbsp;
    <a
 
+## Ask any thing
 
 
-
-
+## STEPS TO DEPLOY YOUR BOT
 
 ## TAP ON STAR AND FORK THE REPO SOW THAT A BOT CAN WORK IF NOT THE BOT WILL NOT WORK!!
 
