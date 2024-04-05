@@ -29,14 +29,14 @@ HOW TO REACH THE OWNER?
 
 1, Fork the repo
 
-   ***Click [`FORK`](https://github.com/kym254-cyrpto/) and `Star 👑 Repository` for Courage.***
+   ***Click [`FORK`](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10) and `Star 👑 Repository` for Courage.***
   
 
 
 2, Scan the code and link it with your Whatsapp.
 
 
-  ***Click [`Get Session`](https://github.com/kym254-cyrpto/). ("Option 1")
+  ***Click [`Get Session`](https://ibrahim-tech-1-4a7321f212d3.herokuapp.com/). ("Option 1")
   
   
   ***Click [`Get Session`](https://github.com/kym254-cyrpto/). ("Option 2")
