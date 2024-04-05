@@ -94,7 +94,7 @@ else {
 france({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("Support the developer by subscraping on youtube  ")
+  repondre("Support the developer by subscribing on youtube  ")
   await zk.sendMessage(auteurMessage,{text : `https://www.youtube.com/@ibrahimmdgpt`},{quoted :ms})
 
 })
