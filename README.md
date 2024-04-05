@@ -21,7 +21,11 @@ HOW TO REACH THE OWNER? 👇👇👇
    <a
 
 
+
+
 ### Setup
+
+## TAP ON STAR AND FORK THE REPO SOW THAT A BOT CAN WORK IF NOT THE BOT WILL NOT WORK!!
 
 1, Fork the repo
 
