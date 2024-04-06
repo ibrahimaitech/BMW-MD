@@ -15,8 +15,9 @@ france({ nomCom: 'ping',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
     const { start} = new Date().getTime()
-    return repondre('*Pong▁▂▄▅▆▇███████*\n ```' + '*8540* + '``` *ms*') 
+    return repondre zok.sendMessage(text: '```ᴘɪɴɢ..```'}) 
+       // await sleep(1000) 
     const { end } = new Date().getTime()
-    await zok.sendMessage('*Pong▁▂▄▅▆▇███████*\n ```' + (end - start) + '``` *ms*')
+    await zok.sendMessage(text: '_𝙥𝙤𝙣𝙜_\n *' + (end - start) + ' ms* ', edit: key})
   }
 )
