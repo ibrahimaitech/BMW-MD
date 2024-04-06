@@ -4,7 +4,7 @@ const { default: axios } = require('axios');
 //const conf = require('../set');
 
 
-france({ nomCom: 'ping',
+france({ nomCom: 'ping2',
     desc: 'To check ping',
     Categorie: 'general',
     reaction: '🚘', 
