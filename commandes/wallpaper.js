@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const { france } = require("../framework/france");
-france({ nomCom: "script", reaction: "🎞", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+france({ nomCom: "wallpaper", reaction: "🎞", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
     let z = '*Random Wallpaper \n\n ' + "Download it and set it to your wallpaper *BMW-MD*";
     let d = 'MADE BY *IBRAHIM-ADAMS*';
