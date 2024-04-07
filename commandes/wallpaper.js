@@ -6,7 +6,7 @@ france({ nomCom: "wallpaper", reaction: "🎞", nomFichier: __filename }, async 
     let z = '*Random Wallpaper \n\n ' + "Download it and set it to your wallpaper *BMW-MD*";
     let d = 'MADE BY *IBRAHIM-ADAMS*';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/a99074213b1bf1351a9d8.jpg,https://telegra.ph/file/c90fdab5f133a946d6f4f.jpg,https://telegra.ph/file/97d3d23af7aff33934aea.jpg,https://telegra.ph/file/480533ebef1d58e17f270.jpg,https://telegra.ph/file/45e33d43711a7c041853f.jpg';
+    var img = 'https://telegra.ph/file/a99074213b1bf1351a9d8.jpg,https://telegra.ph/file/97d3d23af7aff33934aea.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
