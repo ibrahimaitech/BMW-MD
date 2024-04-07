@@ -1,4 +1,12 @@
  <h1 align="center"> 💥BMW MD💥 </h1>
+
+
+
+      
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝗕𝗠𝗪+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗜𝗕𝗥𝗔𝗛𝗜𝗠+𝗔𝗗𝗔𝗠𝗦+𝗗𝗘𝗣𝗟𝗢𝗬+𝗞𝗡𝗢𝗪+𝗧𝗢+𝗘𝗡𝗬𝗢𝗬+𝗧𝗛𝗘+𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦)](https://git.io/typing-svg)
+
+
+ 
 <p align="center"> BMW MD💥, A Simple WhatsApp user BOT, Created by Ibrahim Tech.
 </p>
 
