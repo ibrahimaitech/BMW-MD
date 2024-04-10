@@ -15,10 +15,12 @@
 <img src="https://telegra.ph/file/a238340352ed8841782a7.jpg" width="700" height="300"/>
 
 ## Support 🧧
-
-<a href="https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD">
-  <img src="https://img.shields.io/badge/Support_Group-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
+## Join my channel for updates and get free cc
+<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y">
+  <img src="https://img.shields.io/badge/Support_channel-0a0a0a?style=for-the-badge&logo=wachannel&logoColor=white">
 </a>
+
+
 
 HOW TO REACH THE OWNER? 
  
