@@ -9,6 +9,7 @@ france({ nomCom: "abu", reaction: "🚗", nomFichier: __filename }, async (dest,
     var mp3 = 'https://s31.aconvert.com/convert/p3r68-cdx67/7uiwm-6zr16.mp3'';
     await zk.sendMessage(dest, { audio: { url: mp3 }, caption: varmess });
     //console.log("montest")
+    
 });
 console.log("mon test");
 /*module.exports.commande = () => {
