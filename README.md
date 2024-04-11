@@ -49,7 +49,7 @@ HOW TO REACH THE OWNER?
   <img src="https://img.shields.io/badge/𝗜𝗕𝗥𝗔𝗛𝗜𝗠_𝗔𝗣𝗣-0a0a0a?style=for-the-badge&logo=𝗦𝗖𝗔𝗡 𝗔𝗣𝗣&logoColor=red">
 </a>
 
-<a href="[https://vajirapair-713f1494b168.herokuapp.com/](https://ibrahim-tech-code1-scanner-a3182bc283cc.herokuapp.com/)"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="PAIRING CODE WITH QI 1" border="2" width="170" height="40" ></a>
+<a href="[https://ibrahim-tech-code1-scanner-a3182bc283cc.herokuapp.com/]"><img src="https://i.ibb.co/FWSfNmb/scan-pairing code with qr-zusyco-btn.png" alt="PAIRING CODE WITH QI 1" border="2" width="170" height="40" ></a>
 
 <hr>
 
