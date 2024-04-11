@@ -43,15 +43,11 @@ HOW TO REACH THE OWNER?
   
 
 
-2, Scan the code and link it with your Whatsapp.
+## Get pairing code and qr in the app👇👇 with other information
 
-
-  ***Click [`Get Session`](https://ibrahim-tech-1-4a7321f212d3.herokuapp.com/). ("Option 1")
-  
-  
-  ***Click [`Get Session`](https://ibrahim-tech-qr-1-2-1.onrender.com/). ("Option 2")
-
-
+<a href="https://ibrahim-tech-code1-scanner-a3182bc283cc.herokuapp.com/">
+  <img src="https://img.shields.io/badge/𝗜𝗕𝗥𝗔𝗛𝗜𝗠_𝗔𝗣𝗣-0a0a0a?style=for-the-badge&logo=𝗦𝗖𝗔𝗡 𝗔𝗣𝗣&logoColor=white">
+</a>
    
 3, Copy the session and deploy on heroku.  
 
