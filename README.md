@@ -45,9 +45,9 @@ HOW TO REACH THE OWNER?
 
 ## Get👇👇 pairing code and qr in the app with other information
 
-<a href="https://ibrahim-tech-code1-scanner-a3182bc283cc.herokuapp.com/">
+   <a href="https://ibrahim-tech-code1-scanner-a3182bc283cc.herokuapp.com/">
   <img src="https://img.shields.io/badge/𝗜𝗕𝗥𝗔𝗛𝗜𝗠_𝗔𝗣𝗣-0a0a0a?style=for-the-badge&logo=𝗦𝗖𝗔𝗡 𝗔𝗣𝗣&logoColor=red">
-</a>
+</a> ## Click HERE
    
 3, Copy the session and deploy on heroku.  
 
