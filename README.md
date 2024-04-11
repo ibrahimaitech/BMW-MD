@@ -49,7 +49,7 @@ HOW TO REACH THE OWNER?
   <img src="https://img.shields.io/badge/𝗜𝗕𝗥𝗔𝗛𝗜𝗠_𝗔𝗣𝗣-0a0a0a?style=for-the-badge&logo=𝗦𝗖𝗔𝗡 𝗔𝗣𝗣&logoColor=red">
 </a>
 
-## Click HERE☝️☝️☝️To get your session
+## Click☝️☝️HERETo get your session
    
 3, Copy the session and deploy on heroku.  
 
