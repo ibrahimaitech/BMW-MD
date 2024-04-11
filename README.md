@@ -16,9 +16,13 @@
 
 ## Support 🧧
 ## Join my channel for updates and get free cc
-<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y">
-  <img src="https://img.shields.io/badge/Support_channel-0a0a0a?style=for-the-badge&logo=wachannel&logoColor=white">
-</a>
+<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-yellow?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+
 
 
 
@@ -30,7 +34,7 @@ HOW TO REACH THE OWNER?
   </a>&nbsp;&nbsp;
    <a
 
-## Ask any thing
+    ## Ask any thing
 
 
 ## STEPS TO DEPLOY YOUR BOT
