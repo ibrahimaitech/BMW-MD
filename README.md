@@ -44,17 +44,13 @@ HOW TO REACH THE OWNER?
 
 
 ## Get👇👇 pairing code and qr in the app with other information
-
+ <hr>
    <a href="https://ibrahim-tech-code1-scanner-a3182bc283cc.herokuapp.com/">
   <img src="https://img.shields.io/badge/𝗜𝗕𝗥𝗔𝗛𝗜𝗠_𝗔𝗣𝗣-0a0a0a?style=for-the-badge&logo=𝗦𝗖𝗔𝗡 𝗔𝗣𝗣&logoColor=red">
 </a>
-
-<a href="[https://ibrahim-tech-code1-scanner-a3182bc283cc.herokuapp.com/]"><img src="https://i.ibb.co/FWSfNmb/scan-pairing code with qr-zusyco-btn.png" alt="PAIRING CODE WITH QI 1" border="2" width="170" height="40" ></a>
-
-<hr>
-
-<hr>
-## Click☝️☝️HERETo get your session
+ <hr>
+ 
+ ## Click☝️☝️HERE To get your session
    
 3, Copy the session and deploy on heroku.  
 
