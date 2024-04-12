@@ -47,19 +47,19 @@ HOW TO REACH THE OWNER?
   
 
 
-## Get👇👇 pairing code and qr in the app with other information
- <hr>
-   <a href="https://ibrahim-tech-code1-scanner-a3182bc283cc.herokuapp.com/">
-  <img src="https://img.shields.io/badge/𝗜𝗕𝗥𝗔𝗛𝗜𝗠_𝗔𝗣𝗣-0a0a0a?style=for-the-badge&logo=𝗦𝗖𝗔𝗡 𝗔𝗣𝗣&logoColor=red">
-</a>
- <hr>
- 
- ## Click☝️☝️HERE To get your session
-   
-3, Copy the session and deploy on heroku.  
+<hr>
+  
+[`𝙎𝙏𝙀𝙋 𝙊𝙉𝙀`]
 
-   
- - ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/IBRAHIM-AI-10.10).***
+  <a href="https://ibrahim-tech-code1-scanner-a3182bc283cc.herokuapp.com/">
+  <img src="https://img.shields.io/badge/𝙏𝘼𝙋_𝙃𝙀𝙍𝙀_𝙏𝙊_𝙎𝘾𝘼𝙉_𝙎𝙀𝙎𝙎𝙄𝙊𝙉_-0a0a0a?style=for-the-badge&logo=𝗦𝗖𝗔𝗡 𝗔𝗣𝗣&logoColor=red">
+</a>
+
+[`𝙎𝙏𝙀𝙋 𝙏𝙒𝙊`]
+
+ [`𝙏𝘼𝙋 𝙃𝙀𝙍𝙀 𝙏𝙊 𝘿𝙀𝙋𝙇𝙊𝙔 𝙊𝙉 𝙃𝙀𝙍𝙊𝙆𝙐`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/IBRAHIM-AI-10.10)
+
+ <hr>
 
 
 ## Contributions
