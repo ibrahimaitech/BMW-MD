@@ -71,7 +71,7 @@ let evt = require(__dirname + "/framework/france");
 let {
   reagir
 } = require(__dirname + "/framework/app");
-var session = conf.session.replace(/BMW-MD;;;=>/g, '');
+var session = conf.session.replace(/BMW-MD-WA-BOT;;;=>/g, '');
 const prefixe = conf.PREFIXE;
 async function authentification() {
   try {
@@ -678,7 +678,7 @@ setTimeout(() => {
       try {
         _0x4811f2 = await _0x236875.profilePictureUrl(_0x2bd118.id, "image");
       } catch {
-        _0x4811f2 = 'https://telegra.ph/file/4cc2712eee93c105f6739.jpg';
+        _0x4811f2 = 'https://telegra.ph/file/b3a65285f9ed66762be0e.jpg';
       }
       try {
         const _0x140f66 = await _0x236875.groupMetadata(_0x2bd118.id);
