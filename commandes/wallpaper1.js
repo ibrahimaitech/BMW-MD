@@ -4,17 +4,10 @@
  ║║ ║╔═╗║║╔╗╔╝║╚═╝║║╔═╗║ ║║ ║║║║║║      ║║  ║╔══╝║║ ╔╗║╔═╗║    ║╚═╝║ ║║ 
 ╔╣╠╗║╚═╝║║║║╚╗║╔═╗║║║ ║║╔╣╠╗║║║║║║     ╔╝╚╗ ║╚══╗║╚═╝║║║ ║║    ║╔═╗║╔╣╠╗
 ╚══╝╚═══╝╚╝╚═╝╚╝ ╚╝╚╝ ╚╝╚══╝╚╝╚╝╚╝     ╚══╝ ╚═══╝╚═══╝╚╝ ╚╝    ╚╝ ╚╝╚══╝
+ 
 
-   * @project_name : Bmw Md
-   * @author : Ibrahim Adams
-   * @youtube : https://www.youtube.com/@ibrahimaitech
-   * @description : BMW-Md ,A Multi-functional whatsapp user bot.
-   * @version 9.8.7
-*
-* 
-   * Created By Ibrahim Tech.
-   * © 2024 BMW MD.
-*/
+*© 2024 BMW MD.
+
 
 'use strict';
 
