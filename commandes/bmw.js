@@ -6,7 +6,7 @@ france({ nomCom: "bmw", reaction: "🚗", nomFichier: __filename }, async (dest,
     let z = 'CALL ME BMW A WHATSAPP BOT CREATED BY IBRAHIM ADAMS \n\n ' + "TYPE MENU TO SEE MY COMMAND LIST";
     let d = '       BMW THE FASTEST BOT';
     let varmess = z + d;
-    var mp4 = '/bmw.mp4';
+    var mp4 = "./bmw.mp4";
     await zk.sendMessage(dest, { video: { url: mp4 }, caption: varmess });
     //console.log("montest")
     
