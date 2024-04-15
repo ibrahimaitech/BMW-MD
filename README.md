@@ -1,4 +1,5 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center"> 💥BMW MD💥 </h1>
 
 
@@ -35,11 +36,9 @@ HOW TO REACH THE OWNER?
     ## Ask any thing
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-#<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 ## STEPS TO DEPLOY YOUR BOT
 
- <hr>
-<hr>
 
 1, Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/fork)
 
@@ -61,7 +60,7 @@ HOW TO REACH THE OWNER?
 
 
 <p align="center"><a href="https://ibrahim-tech-web-app-4dae45b28d62.herokuapp.com/">
- <img src="https://img.shields.io/badge/𝑪𝑳𝑰𝑪𝑲%20𝑯𝑬𝑹𝑬%20𝑻𝑶%20𝑫𝑬𝑷𝑳𝑶𝒀%20𝒀𝑶𝑼𝑹%20𝑩𝑶𝑻-orange?style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+ <img src="https://img.shields.io/badge/𝑪𝑳𝑰𝑪𝑲%20𝑯𝑬𝑹𝑬%20𝑻𝑶%20𝑫𝑬𝑷𝑳𝑶𝒀%20𝒀𝑶𝑼𝑹%20𝑩𝑶𝑻-black?style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 
 
