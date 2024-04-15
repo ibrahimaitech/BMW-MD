@@ -47,7 +47,7 @@ HOW TO REACH THE OWNER?
 
 
 
-4, TAP DEPLOY  IT ON HEROKU ..Use Ibrahim Tech App..
+4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Ibrahim Tech App..
 
  <hr>
 
@@ -56,6 +56,7 @@ HOW TO REACH THE OWNER?
 [𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙏𝙀𝘾𝙃 𝘼𝙋𝙋](https://ibrahim-tech-web-app-4dae45b28d62.herokuapp.com/)
 
  [𝙃𝙀𝙍𝙊𝙆𝙐](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/IBRAHIM-AI-10.10)
+ 
  <hr>
 
    
