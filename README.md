@@ -35,6 +35,7 @@ HOW TO REACH THE OWNER?
 
 ## STEPS TO DEPLOY YOUR BOT
 
+ <hr>>
 <hr>
 
 1, ***Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/fork)
@@ -49,15 +50,14 @@ HOW TO REACH THE OWNER?
 
 4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Ibrahim Tech App..
 
- <hr>
 
-## 𝗧𝗔𝗣 𝗢𝗡 𝗧𝗛𝗘 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  𝘽𝙈𝙒 𝙈𝘿
+## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 𝗧𝗛𝗘 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  𝘽𝙈𝙒 𝙈𝘿
   
 [𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙏𝙀𝘾𝙃 𝘼𝙋𝙋](https://ibrahim-tech-web-app-4dae45b28d62.herokuapp.com/)
 
 
  <hr>
-
+ <hr>>
    
   
 
