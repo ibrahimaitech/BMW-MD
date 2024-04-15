@@ -3,7 +3,7 @@
 
 
       
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F05&lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝗕𝗠𝗪+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗜𝗕𝗥𝗔𝗛𝗜𝗠+𝗧𝗘𝗖𝗛)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+𝗕𝗠𝗪+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗜𝗕𝗥𝗔𝗛𝗜𝗠+𝗧𝗘𝗖𝗛)](https://git.io/typing-svg)
 
 
  
@@ -55,7 +55,7 @@ HOW TO REACH THE OWNER?
 ## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 𝗧𝗛𝗘 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  𝘽𝙈𝙒 𝙈𝘿
   
 <p align="center"><a href="https://ibrahim-tech-web-app-4dae45b28d62.herokuapp.com/">
- <img src="https://img.shields.io/badge/𝑪𝑳𝑰𝑪𝑲%20𝑯𝑬𝑹𝑬%20Now-red?style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+ <img src="https://img.shields.io/badge/𝑪𝑳𝑰𝑪𝑲%20𝑯𝑬𝑹𝑬%20𝑻𝑶%20𝑫𝑬𝑷𝑳𝑶𝒀%20𝒀𝑶𝑼𝑹%20𝑩𝑶𝑻-PINK?style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
  <hr>
  <hr>
