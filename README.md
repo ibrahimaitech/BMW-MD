@@ -53,11 +53,9 @@ HOW TO REACH THE OWNER?
 
 ## 𝗧𝗔𝗣 𝗢𝗡 𝗧𝗛𝗘 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  𝘽𝙈𝙒 𝙈𝘿
   
-[𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙏𝙀𝘾𝙃 𝘼𝙋𝙋](https://ibrahim-tech-web-app-4dae45b28d62.herokuapp.com/)
+[𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙏𝙀𝘾𝙃 𝘼𝙋𝙋](https://ibrahim-tech-web-app-4dae45b28d62.herokuapp.com/)
 
-# Optional.. U can use this even to deploy if not in the app
- [𝙃𝙀𝙍𝙊𝙆𝙐](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/IBRAHIM-AI-10.10)
- 
+
  <hr>
 
    
