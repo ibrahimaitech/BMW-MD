@@ -37,9 +37,9 @@ HOW TO REACH THE OWNER?
 
 <hr>
 
-1, ***Click Here To  [`FORK`](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/fork) and `Star 👑 Repository` for Courage.***
+1, ***Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/fork)
 
-2, TAP ON 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙏𝙀𝘾𝙃 𝘼𝙋𝙋
+2, TAP ON IBRAHIM TECH APP DOWN THERE
 
 
 
@@ -55,6 +55,7 @@ HOW TO REACH THE OWNER?
   
 [𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙏𝙀𝘾𝙃 𝘼𝙋𝙋](https://ibrahim-tech-web-app-4dae45b28d62.herokuapp.com/)
 
+# Optional.. U can use this even to deploy if not in the app
  [𝙃𝙀𝙍𝙊𝙆𝙐](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/IBRAHIM-AI-10.10)
  
  <hr>
