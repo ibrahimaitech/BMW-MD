@@ -35,7 +35,7 @@ HOW TO REACH THE OWNER?
 
 ## STEPS TO DEPLOY YOUR BOT
 
- <hr>>
+ <hr>
 <hr>
 
 1, ***Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/fork)
@@ -57,7 +57,7 @@ HOW TO REACH THE OWNER?
 
 
  <hr>
- <hr>>
+ <hr>
    
   
 
