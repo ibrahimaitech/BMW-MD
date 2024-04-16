@@ -90,6 +90,6 @@ Contributions to *BMW-MD* are welcome! If you have ideas for new features, impro
 The *BMW-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the *BMW-MD*  to enhance your Whatsapp more enjoyable
-
+☣Powered by Ibrahim Tech
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
