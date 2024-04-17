@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝗕𝗠𝗪-𝗠𝗗",
+      "value":"𝑩𝑴𝑾 𝑴𝑫",
       "required":false
 
     } ,
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "MR IBRAHIM"
+    "value": "𝑴𝒓 𝑰𝒃𝒓𝒂𝒉𝒊𝒎"
   },
     "NUMERO_OWNER":
   {
