@@ -15,10 +15,12 @@
 
 
 <img src="https://telegra.ph/file/a238340352ed8841782a7.jpg" width="700" height="300"/>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+# Scan section
 
+[`TAP HERE SCAN PAIRING CODE`](https://ibrahim-tech-app-11dd0aa09b64.herokuapp.com/pair)
 
-[SCAN SESSION WITH PAIRING CODE](https://ibrahim-tech-app-11dd0aa09b64.herokuapp.com/pair)
-
+[`TAP HERE SCAN QR`](https://ibrahim-tech-app-11dd0aa09b64.herokuapp.com/qr)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Support 🧧 🧧 🧧 🧧
@@ -61,10 +63,12 @@ HOW TO REACH THE OWNER?
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+[`TAP HERE SCAN ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/IBRAHIM-AI-10.10)
+
 
 
 <p align="center"><a href="https://ibrahim-tech-app-11dd0aa09b64.herokuapp.com/">
- <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20DEPLOY%20YOUR%20BOT-Yellow?style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+ <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20IBRAHIM-TECH%20APP-Yellow?style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 
 
