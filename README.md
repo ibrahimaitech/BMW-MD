@@ -16,6 +16,10 @@
 
 <img src="https://telegra.ph/file/a238340352ed8841782a7.jpg" width="700" height="300"/>
 
+
+[SCAN SESSION WITH PAIRING CODE](https://ibrahim-tech-app-11dd0aa09b64.herokuapp.com/pair)
+
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Support 🧧 🧧 🧧 🧧
 ## Join my channel for updates and get free cc
