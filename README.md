@@ -18,9 +18,9 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 # Scan section
 
-[`TAP HERE SCAN PAIRING CODE`](https://ibrahim-tech-app-11dd0aa09b64.herokuapp.com/pair)
+[`TAP HERE TO SCAN PAIRING CODE`](https://ibrahim-tech-app-11dd0aa09b64.herokuapp.com/pair)
 
-[`TAP HERE SCAN QR`](https://ibrahim-tech-app-11dd0aa09b64.herokuapp.com/qr)
+[`TAP HERE TO SCAN QR`](https://ibrahim-tech-app-11dd0aa09b64.herokuapp.com/qr)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Support 🧧 🧧 🧧 🧧
@@ -63,9 +63,9 @@ HOW TO REACH THE OWNER?
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<p align="center"><
- 
- [`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/IBRAHIM-AI-10.10)
+ <h1 align="center">
+
+  ****[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/IBRAHIM-AI-10.10)***
 
 
 
