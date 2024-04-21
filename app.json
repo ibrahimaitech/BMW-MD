@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝑩𝑴𝑾 𝑴𝑫",
+      "value":"𝑩𝑴𝑾  𝑴𝑫",
       "required":false
 
     } ,
