@@ -6,8 +6,8 @@ france({ nomCom: "ibrahim", reaction: "🧒", nomFichier: __filename }, async (d
     let z = 'Yes you called me whats up Ok anyway support me by following my channel and subscribing on my youtube channel 🙏 \n\n ' + "║❒ 𝙒𝘼𝘾𝙃𝘼𝙉𝙉𝙀𝙇 https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y";
     let d = '                                        ║❒ 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 https://www.youtube.com/@ibrahimmdgpt';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/16dd2b3823fedec5c8d88.jpg';
-    await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
+    var mp4 = 'https://telegra.ph/file/dec033e457813cd2ff2e3.mp4';
+    await zk.sendMessage(dest, { video: { url: mp4 }, caption: varmess });
     //console.log("montest")
 });
 console.log("mon test");
