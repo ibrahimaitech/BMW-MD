@@ -4,7 +4,7 @@ const { france } = require("../framework/france");
 france({ nomCom: "test", reaction: "⏳", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
     let z = '𝘽𝙊𝙏 𝙄𝙎 𝙊𝙉𝙇𝙄𝙉𝙀 \n\n ' + "║❒ 𝙏𝙔𝙋𝙀 𝙈𝙀𝙉𝙐 𝙏𝙊 𝙎𝙀𝙀 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎";
-    let d = '       ║❒ 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 https://www.youtube.com/@ibrahimmdgpt';
+    let d = '         ║❒ 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 https://www.youtube.com/@ibrahimmdgpt';
     let varmess = z + d;
     var img = 'https://telegra.ph/file/16dd2b3823fedec5c8d88.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
