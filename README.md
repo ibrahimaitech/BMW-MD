@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> 💥BMW MD💥 </h1>
+ <h1 align="center"> BMW MD V2 </h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -14,7 +14,7 @@
 
 
 
-<img src="https://telegra.ph/file/a238340352ed8841782a7.jpg" width="700" height="300"/>
+<img src="[https://telegra.ph/file/a238340352ed8841782a7.jpg](https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg)" width="700" height="300"/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center">  SCAN SESSION </h1>
  
