@@ -69,7 +69,7 @@ HOW TO REACH THE OWNER?
 
  <h1 align="center">
 
-  ***[`TAP HERE TO DEPLOY ON HEROKU`](https://bmw-code-scanner-8df743f73014.herokuapp.com/)***
+  ***[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/IBRAHIM-AI-10.10)***
 
 
 
@@ -77,7 +77,7 @@ HOW TO REACH THE OWNER?
 
 
 
-  ***<p align="center"><a href="https://ibrahim-tech-app-11dd0aa09b64.herokuapp.com/">
+  ***<p align="center"><a href="https://bmw-code-scanner-8df743f73014.herokuapp.com/">
  <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20IBRAHIM%20TECH%20APP-Yellow?style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>***
 
 
