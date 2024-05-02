@@ -1,12 +1,12 @@
 {
-  "name": "Bmw-md",
+  "name": "FlyGoat-md",
   "version": "2.0.0",
   "description": "",
-  "main": "ibrahim.js",
+  "main": "EasternG.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node ibrahim.js",
-    "bmwmd": "pm2 start ibrahim.js --attach --max-memory-restart 490M",
+    "s": "node EasternG.js",
+    "bmwmd": "pm2 start EasternG.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
@@ -15,9 +15,9 @@
     "Bmw-md",
     "whatsapp",
     "whatsapp-bot",
-    "ibrahimaitech"
+    "EasternG"
   ],
-  "author": "ibrahimartech",
+  "author": "Eastern Guru",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
