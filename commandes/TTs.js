@@ -5,7 +5,7 @@ const {france} = require("../framework/france");
 france( {
   nomCom : "dit",
  categorie : "tts",
-  reaction : "👄" },
+  reaction : "🤩" },
       async(dest,zk, commandeOptions)=> {
  
 const {ms,arg,repondre} = commandeOptions;
@@ -28,7 +28,7 @@ console.log(url);
 france( {
   nomCom : "itta",
  categorie : "tts",
-  reaction : "👄" },
+  reaction : "🤩" },
       async(dest,zk, commandeOptions)=> {
  
 const {ms,arg,repondre} = commandeOptions;
@@ -51,7 +51,7 @@ console.log(url);
 france( {
   nomCom : "say",
  categorie : "tts",
-  reaction : "👄" },
+  reaction : "🤩" },
       async(dest,zk, commandeOptions)=> {
  
 const {ms,arg,repondre} = commandeOptions;
