@@ -52,7 +52,7 @@ HOW TO REACH THE OWNER?
 2.**CONNECT TO WHATSAPP WITH PAIRING CODE OR QR**
 3.**TAP DEPLOY.., AND DEPLOY IT ON HEROKU**
 
-## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 HEROKU OR 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  𝐅𝐥𝐲𝐆𝐨𝐚𝐭 𝐌𝐃 
+## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 **HEROKU** 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  𝐅𝐥𝐲𝐆𝐨𝐚𝐭 𝐌𝐃 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
