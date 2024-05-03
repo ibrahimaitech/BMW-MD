@@ -164,7 +164,7 @@ async (origineMessage, zk, commandeOptions) => {
 france({
   nomCom: "dick",
   categorie: "Hentai",
-  reaction: "😋"
+  reaction: "🙈"
 },
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
