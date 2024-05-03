@@ -50,7 +50,8 @@ HOW TO REACH THE OWNER?
 1.**Star the repo up there then click Here To** [`FORK`](https://github.com/EasternG/FlyGoat-MD/fork)
 
 2.**CONNECT TO WHATSAPP WITH PAIRING CODE OR QR**
-3.**TAP DEPLOY.., AND DEPLOY IT ON HEROKU**
+
+3.**TAP DEPLOY, AND HOST YOUR BOT ON HEROKU**
 
 ## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 **HEROKU** 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  𝐅𝐥𝐲𝐆𝐨𝐚𝐭 𝐌𝐃 
 
