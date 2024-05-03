@@ -3,7 +3,7 @@ const {getContentType}=require("@whiskeysockets/baileys")
 
 
 
-france({nomCom:"vv",categorie:"General",reaction:"🤩"},async(dest,zk,commandeOptions)=>{
+france({nomCom:"vv",categorie:"General",reaction:"👀"},async(dest,zk,commandeOptions)=>{
 
 const {ms,msgRepondu,repondre}=commandeOptions;
 
