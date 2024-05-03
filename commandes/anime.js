@@ -1,6 +1,6 @@
 /*
-ZeroTwo-MD V1.0 
- Coded By VihangaYT
+FlyGoat-MD V1.0 
+ Coded By Eastern G
 
 Modified File : anime.js
 Modified Date : 8/23/2023
