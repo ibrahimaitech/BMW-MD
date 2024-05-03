@@ -11,7 +11,7 @@ pnix({
   const _0x554062 = await getBuffer("https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg");
   const _0x19f988 = {
     'title': "I'm Alive Now",
-    'body': "Bmw-𝙼𝙳",
+    'body': "FlyGoat-𝙼𝙳",
     'thumbnail': _0x554062,
     'mediaType': 0x1,
     'mediaUrl': "https://i.imgur.com/6jdTPZz.mp4",
@@ -32,3 +32,4 @@ pnix({
     'quoted': _0x3eb68d.quoted || ''
   });
 });
+
