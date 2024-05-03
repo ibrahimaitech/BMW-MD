@@ -16,7 +16,7 @@ const audiovn = "./start.mp3";
           externalAdReply: {
           title: "Hi human, I am on run",
           body: "BMW BOT",
-          thumbnailUrl: "https://telegra.ph/file/a238340352ed8841782a7.jpg",
+          thumbnailUrl: "https://telegra.ph/file/0ee91b720ace7c6ef5485.png",
           sourceUrl: '',
           mediaType: 1,
           renderLargerThumbnail: true
