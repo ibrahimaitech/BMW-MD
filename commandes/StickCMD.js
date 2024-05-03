@@ -85,4 +85,5 @@ france(
             repondre('No stickcmd save');
         }
     }
-);
+);  
+*
