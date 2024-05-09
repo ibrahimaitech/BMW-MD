@@ -1,9 +1,9 @@
 {
-  "name":"BMW-MDV2",
-  "description":"bot whatsapp développé by Ibrahim adams",
+  "name":"𝚻𝚯𝚸𝐔-𝚳𝐃",
+  "description":"bot whatsapp développé by topu dmh",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
-  "repository":"https://github.com/ibrahimaitech/IBRAHIM-AI-10.10",
+  "logo":"https://telegra.ph/file/8dace2d24b82568c29e19.jpg",
+  "repository":"https://github.com/Toputech/TOPU-TECH-AI",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝑩𝑴𝑾  𝑴𝑫",
+      "value":"𝚻𝚯𝚸𝐔 𝚳𝐃",
       "required":false
 
     } ,
@@ -74,20 +74,20 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝑴𝒓 𝑰𝒃𝒓𝒂𝒉𝒊𝒎"
+    "value": "Topik dmh"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "+254739937062,254710772666"
+    "value": "+255673750170"
   },
     "WARN_COUNT":
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "3"
+    "value": "4"
   },
   "STARTING_BOT_MESSAGE":
   {
@@ -102,7 +102,7 @@
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "yes",
+    "value": "no",
     "required": false
   }
   },
