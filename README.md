@@ -1,11 +1,11 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> TOPU MD V2 </h1>
+ <h1 align="center"> TOPU MD V1 </h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+TOPU+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+TOPU+DMH)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝗔𝗠+TOPU+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+TOPU+DMH)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
@@ -16,12 +16,12 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center">  SCAN SESSION </h1>
  
-
-  ***[`TAP HERE TO SCAN PAIRING CODE`](https://TOPU-code-scanner-8df743f73014.herokuapp.com/pair)***
+For better experience of your whatsapp ...ensure your network connection is high
+  ***[`TAP HERE TO SCAN PAIRING CODE`](https://topu-code-scanner-8df743f73014.herokuapp.com/pair)***
 
 
   
-  ***[`TAP HERE TO SCAN QR`](https://TOPU-code-scanner-8df743f73014.herokuapp.com/qr)***
+  ***[`TAP HERE TO SCAN QR`](https://topu-code-scanner-8df743f73014.herokuapp.com/qr)***
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
