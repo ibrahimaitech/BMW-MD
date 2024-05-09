@@ -19,11 +19,11 @@
  <h1 align="center">  SCAN SESSION </h1>
  
 
-  ***[`TAP HERE TO SCAN PAIRING CODE`](https://bmw-code-scanner-8df743f73014.herokuapp.com/pair)***
+  ***[`TAP HERE TO SCAN PAIRING CODE`](https://bmw-code-app-c1168f4953cd.herokuapp.com/pair)***
 
 
   
-  ***[`TAP HERE TO SCAN QR`](https://bmw-code-scanner-8df743f73014.herokuapp.com/qr)***
+  ***[`TAP HERE TO SCAN QR`](https://bmw-code-app-c1168f4953cd.herokuapp.com/qr)***
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -77,7 +77,7 @@ HOW TO REACH THE OWNER?
 
 
 
-  ***<p align="center"><a href="https://bmw-code-scanner-8df743f73014.herokuapp.com/">
+  ***<p align="center"><a href="https://bmw-code-app-c1168f4953cd.herokuapp.com/">
  <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20IBRAHIM%20TECH%20APP-Yellow?style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>***
 
 
