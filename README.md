@@ -17,15 +17,15 @@
  <h1 align="center">  SCAN SESSION </h1>
  
 For better experience of your whatsapp ...ensure your network connection is high
-  ***[`TAP HERE TO SCAN PAIRING CODE`](https://topu-code-scanner-8df743f73014.herokuapp.com/pair)***
+  ***[`TAP HERE TO SCAN PAIRING CODE`](https://bmw-code-scanner-8df743f73014.herokuapp.com/pair)***
 
 
   
-  ***[`TAP HERE TO SCAN QR`](https://topu-code-scanner-8df743f73014.herokuapp.com/qr)***
+  ***[`TAP HERE TO SCAN QR`](https://bmw-code-scanner-8df743f73014.herokuapp.com/qr)***
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Support 🧧 🧧 🧧 🧧
+## Support 
 ## Join my channel for updates and get free cc
 <a href="https://https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -34,7 +34,7 @@ For better experience of your whatsapp ...ensure your network connection is high
 
 
 HOW TO REACH THE OWNER? 
- 
+ for any issue check me i will show a reaction
    
    <a href=" ["https://wa.me/message/TURP7PO4DTLKN1">]
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
