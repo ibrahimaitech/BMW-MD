@@ -9,12 +9,10 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> TOPU MD, A Simple WhatsApp user BOT, Created by TOPU Tech.
+<p align="center"> 𝚻𝚯𝚸𝐔 𝚳𝐃, A Simple WhatsApp user BOT, Created by TOPU Tech.
 </p>
 
-
-
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/8dace2d24b82568c29e19.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center">  SCAN SESSION </h1>
  
