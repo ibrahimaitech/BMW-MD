@@ -5,7 +5,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=OYAA+I+AM+TOPU+MD+CREATED+BY+TOP+DMH+AM+CURRENTLY+LEARNING+CODING+STAY+UPDATED+boosting+your+whatsapp)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=OYAA+I+AM+TOPU+MD+CREATED+BY+TOPU+DMH+AM+CURRENTLY+LEARNING+CODING+STAY+UPDATED+boosting+your+whatsapp)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
@@ -17,7 +17,7 @@
  <h1 align="center">  SCAN SESSION </h1>
  
 For better experience of your whatsapp ...ensure your network connection is high
-  ***[`TAP HERE TO SCAN PAIRING CODE`](https://topu-md-code-scanner-8df743f73014.herokuapp.com/pair)***
+  ***[`TAP HERE TO SCAN PAIRING CODE`](https://bmw-md-code-scanner-8df743f73014.herokuapp.com/pair)***
 
 
   
