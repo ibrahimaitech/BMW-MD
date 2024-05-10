@@ -17,7 +17,7 @@
  <h1 align="center">  SCAN SESSION </h1>
  
 For better experience of your whatsapp ...ensure your network connection is high
-  ***[`TAP HERE TO SCAN PAIRING CODE`](https://bmw-md-code-scanner-8df743f73014.herokuapp.com/pair)***
+  ***[`TAP HERE TO SCAN PAIRING CODE`](https://topuumd-c0fba67104c6.herokuapp.com/)***
 
 
   
