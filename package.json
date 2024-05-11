@@ -1,23 +1,23 @@
 {
-  "name": "Topu-md",
+  "name": "Top tech",
   "version": "2.0.0",
   "description": "",
-  "main": "topu.js",
+  "main": "ibrahim.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "s": "node ibrahim.js",
-    "topu.md": "pm2 start topik.js --attach --max-memory-restart 490M",
+    "bmwmd": "pm2 start ibrahim.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "topu-md",
+    "Bmw-md",
     "whatsapp",
     "whatsapp-bot",
-    "toputech"
+    "ibrahimaitech"
   ],
-  "author": "topiktech",
+  "author": "ibrahimartech",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
