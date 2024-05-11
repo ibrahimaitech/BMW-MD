@@ -1,12 +1,12 @@
 {
-  "name": "TOU-md",
+  "name": "Topu-md",
   "version": "2.0.0",
   "description": "",
   "main": "topu.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node topu.js",
-    "topumd": "pm2 start topik.js --attach --max-memory-restart 490M",
+    "s": "node ibrahim.js",
+    "topu.md": "pm2 start topik.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
