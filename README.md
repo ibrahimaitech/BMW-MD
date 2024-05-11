@@ -1,8 +1,8 @@
 <a><ig src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center"> TOPU MD V1 </h1>
-
-
+hy i am currently learning coding...
+best regards to a most active bot
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=OYAA+I+AM+TOPU+MD+CREATED+BY+TOPU+DMH+AM+CURRENTLY+LEARNING+CODING+STAY+UPDATED+boosting+your+whatsapp)](https://git.io/typing-svg)
@@ -17,11 +17,11 @@
  <h1 align="center">  SCAN SESSION </h1>
  
 For better experience of your whatsapp ...ensure your network connection is high
-  ***[`TAP HERE TO SCAN PAIRING CODE`](https://topuumd-c0fba67104c6.herokuapp.com/)***
+  ***[`TAP HERE TO SCAN PAIRING CODE`](https://topuumd-c0fba67104c6.herokuapp.com/pair)***
 
 
   
-  ***[`TAP HERE TO SCAN QR`](https://bmw-code-scanner-8df743f73014.herokuapp.com/qr)***
+  ***[`TAP HERE TO SCAN QR`](https://topuu-code-scanner-8df743f73014.herokuapp.com/qr)***
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
