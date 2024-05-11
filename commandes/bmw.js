@@ -1,4 +1,4 @@
-"use strict";
+"use stict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const { france } = require("../framework/france");
 france({ nomCom: "TOPU", reaction: "😎", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
