@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
+      "value":"https://telegra.ph/file/8dace2d24b82568c29e19.jpg",
       "required":false
        
      },
@@ -79,7 +79,7 @@
     "NUMERO_OWNER":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
+    "desc": "Your number , dont put '+' and put you area code(exemple of tanzania '255')",
     "required":false,
     "value": "+255673750170"
   },
