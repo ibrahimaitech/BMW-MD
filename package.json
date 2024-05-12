@@ -1,5 +1,5 @@
 {
-  "name": "Top tech",
+  "name": "Bmw-md",
   "version": "2.0.0",
   "description": "",
   "main": "ibrahim.js",
@@ -68,4 +68,4 @@
     "yt-search": "^2.10.4",
     "ytdl-core": "^4.10.0"
   }
-}
+  }
