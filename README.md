@@ -19,11 +19,11 @@
  <h1 align="center">  SCAN SESSION </h1>
  
 
-  ***[`TAP HERE TO SCAN PAIRING CODE`](https://bmw-code-app-c1168f4953cd.herokuapp.com/pair)***
+[PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`](https://bmw-code-app-c1168f4953cd.herokuapp.com/pair)***
 
 
   
-  ***[`TAP HERE TO SCAN QR`](https://bmw-code-app-c1168f4953cd.herokuapp.com/qr)***
+ [QR] ***[`TAP HERE TO SCAN QR`](https://bmw-code-app-c1168f4953cd.herokuapp.com/qr)***
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -94,14 +94,7 @@ HOW TO REACH THE OWNER?
 
 
 Contributions to *BMW-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-## THANKS TO
-[Naveed Dogar]
-
-
-[France King]
-
-
-[Morice]
+## THANKS TO [GOD]
 
 ## License
 
