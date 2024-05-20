@@ -11,7 +11,11 @@
  
 <p align="center"> BMW MD💥, A Simple WhatsApp user BOT, Created by Ibrahim Tech.
 </p>
+<p align="center">
+<i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating 💸</a> to support its continuous<br/> improvement and development!</i>
+</p>
 
+https://user-images.githubusercontent.com/43fc189d0887c878266b5.mp4
 
 
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/3c753002fab985c1cb1e7.jpg" alt="01" border="0" /></a>                     
