@@ -1175,7 +1175,7 @@ setTimeout(() => {
           console.log("chargement des commandes terminé ✅");
           await _0x37e887();
           if (conf.DP.toLowerCase() === "yes") {
-            let _0x4b5e14 = "\n*『𝗕𝗠𝗪-𝗠𝗗 𝗜𝗦 𝗢𝗡𝗟𝗜𝗡𝗘』*\n\n     \n║❒Creator: *Ibrahim Tech*\n║❒Prefix : [ " + prefixe + " ]\n║❒Mode :" + _0x3d16d3 + "\n║❒Created on : *22.2.2024*\n║❒Total Commands : " + evt.cm.length + "︎\n\n     \n     \n \n║❒ _𝗚𝗢 *𝗧𝗢* *Youtube* *for* *Tutorial*_\nhttps://www.youtube.com/@ibrahimaitech\n\n║❒ *JOIN OUR WhatsApp channel*\nhttps://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y\n\n║❒ *FOLLOW THE DEVELOPER* 🪄 \nhttps://www.instagram.com/ibrahim_tech_official \n\n\n              *𝗕𝗠𝗪-𝐌𝐃*";
+            let _0x4b5e14 = "\n*『𝑩𝑴𝑾 𝑾𝑨𝑩𝑶𝑻 𝑪𝑶𝑵𝑵𝑬𝑪𝑻𝑬𝑫』*\n\n     \n║❒𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓: *𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔*\n║❒𝑷𝒓𝒊𝒗𝒂𝒄𝒚 :" + _0x3d16d3 + "\n║❒𝑨𝒍𝒍 𝒄𝒎𝒅𝒔 : " + evt.cm.length + "︎\n\n     \n     \n \n║❒ *𝑭𝒐𝒍𝒍𝒐𝒘 𝒕𝒉𝒊𝒔 𝒄𝒉𝒂𝒏𝒏𝒆𝒍 𝒇𝒐𝒓 𝒃𝒐𝒕 𝒖𝒑𝒅𝒂𝒕𝒆𝒔*\nhttps://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y\n\n║❒ *𝑭𝒐𝒓 𝒎𝒐𝒓𝒆 𝒊𝒏𝒇𝒐𝒓 𝒕𝒂𝒑 𝒐𝒏 𝒕𝒉𝒆 𝒍𝒊𝒏𝒌 𝒃𝒆𝒍𝒐𝒘* \nhttps://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO \n\n\n              *𝑴𝒂𝒅𝒆 𝒃𝒚 𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔*";
             await _0x236875.sendMessage(_0x236875.user.id, {
               'text': _0x4b5e14
             });
