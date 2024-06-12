@@ -1,23 +1,23 @@
 {
-  "name": "BMW-XMD",
+  "name": "BMW-MD",
   "version": "2.0.0",
   "description": "",
   "main": "ibrahim.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node ibrahim.js",
-    "bmwmd": "pm2 start ibrahim.js --attach --max-memory-restart 490M",
+    "s": "node flash.js",
+    "flashmd": "pm2 start ibrahim.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "BMW-Md",
+    "Bmw-Md",
     "whatsapp",
     "whatsapp-bot",
-    "ibrahimadams"
+    "ibrahimaitech"
   ],
-  "author": "ibrahimaitech",
+  "author": "Ibrahim Adams",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
