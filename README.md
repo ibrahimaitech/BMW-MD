@@ -43,6 +43,8 @@ HOW TO REACH THE OWNER?
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+</p>
+
 ## STEPS TO DEPLOY YOUR BOT
 
 
@@ -56,18 +58,20 @@ HOW TO REACH THE OWNER?
 
 
 
-4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Ibrahim Tech App..
+4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU...
 
-## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 HEROKU OR 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  𝘽𝙈𝙒 𝙈𝘿
+</p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
- <h1 align="center">
+</p>
 
-  ***[`TAP HERE TO DEPLOY ON HEROKU`](https://github.com/IBRAHIM-TECH-AI/DEPLOYMENT-SITE)***
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https://github.com/kingibrahimtech/Bmw-xmd)
 
+</p>
 
+<a href="https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEVELOPER-INFO -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -75,7 +79,7 @@ HOW TO REACH THE OWNER?
    
   
 
-
+</p>
 
 
 ## Contributions
