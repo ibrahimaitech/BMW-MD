@@ -67,7 +67,7 @@ HOW TO REACH THE OWNER?
 
 </p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegra.ph/file/f466c0ee22a7b51ffd8d4.jpg)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/ibrahimaitech/bmw-bot&template=https://github.com/ibrahimaitech/bmw-bot/tree/main)
 
 </p>
 
