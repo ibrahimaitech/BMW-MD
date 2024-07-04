@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> BMW V6 MD </h1>
-   HEROKU BAN FIXED
+ <h1 align="center"> BMW V6 MD (HEROKU BAN FIXED) </h1>
+   
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
