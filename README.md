@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> BMW V6 MD (HEROKU BAN FIXED) </h1>
-   
+ <h1 align="center"> BMW X5 MD </h1>
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
@@ -18,9 +18,10 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center">  SESSION SITE 
 
-</p>
 
-<a href="https://github.com/IBRAHIM-TECH-AI/SESSION-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+  ***[`TAP HERE YOU OPEN SESSION SITE`](https://github.com/IBRAHIM-TECH-AI/SESSION-SITE/tree/main)***
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Support 🧧 🧧 🧧 🧧
@@ -43,8 +44,6 @@ HOW TO REACH THE OWNER?
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-</p>
-
 ## STEPS TO DEPLOY YOUR BOT
 
 
@@ -58,20 +57,18 @@ HOW TO REACH THE OWNER?
 
 
 
-4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU...
+4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Ibrahim Tech App..
 
-</p>
+## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 HEROKU OR 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  𝘽𝙈𝙒 𝙈𝘿
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-</p>
+ <h1 align="center">
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/ibrahimaitech/bmw-bot&template=https://github.com/ibrahimaitech/bmw-bot/tree/main)
+  ***[`TAP HERE TO DEPLOY ON HEROKU`](https://github.com/IBRAHIM-TECH-AI/DEPLOYMENT-SITE)***
 
-</p>
 
-<a href="https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEVELOPER-INFO -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -79,7 +76,7 @@ HOW TO REACH THE OWNER?
    
   
 
-</p>
+
 
 
 ## Contributions
