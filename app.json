@@ -1,8 +1,8 @@
 {
-  "name":"V-6-BMW-XMD",
-  "description":"Deploy now your bot, Bmw was developed by Ibrahim Adams.Make sure you fill all valuables to avoid bot from sleeping. ",
+  "name":"BMW-X5MD",
+  "description":"bot whatsapp développé by Ibrahim adams",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/fd124f7e9271111c3bcc1.jpg",
+  "logo":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
   "repository":"https://github.com/ibrahimaitech/BMW-MD",
   "succes_url":"/",
   "stack":"container",
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":" 𝐁𝐌𝐖-𝐗𝐌𝐃",
+      "value":"BMW-XMD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/7d07f6bb6562e3c7b9599.mp4",
+      "value":"https://telegra.ph/file/ca5688b76af3e964f963b.jpg",
       "required":false
        
      },
@@ -53,20 +53,18 @@
       "required":false
     }
 	,
-    "HEROKU_APY_KEY": {
-    "description": "insert your heroku api-key ",
-     "value":"",
-	"required" :true
+    "HEROKU_API_KEY": {
+    "description": "insert your heroku api-key (this is optionnal)",
+     "required" :false
     },
   "HEROKU_APP_NAME": {
-    "description": "insert your heroku APP NAME (the name you wrote at the beginning)",
-     "value":"",
-	"required" :true
+    "description": "insert your heroku APP NAME (this is optionnal)",
+     "required" :false
     }  
 	  ,
     "SESSION_ID":
     {
-      "description":"put your session ID, the code you received after pairing code",   
+      "description":"put your session ID , the code you receive after scanning Qr code",   
       "value":"",
       "required":true
       
@@ -76,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
+    "value": "𝑴𝒓 𝑰𝒃𝒓𝒂𝒉𝒊𝒎"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254739937062,254710772666"
+    "value": "+254739937062,254710772666"
   },
     "WARN_COUNT":
   {
@@ -99,26 +97,39 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",  
+    "value":"",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "no",
-    "required": false
+    "value": "yes",
+        "required": false
   }
   },
 
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+
   "formation": {
-		"worker": {
-			"quantity": 1,
-			"size": "basic"
-		}
-	},
+                "worker": {
+                        "quantity": 1,
+                        "size": "basic"
+                }
+        },
 
   "addons":[
     {
-      "plan":"heroku-postgresql:essential-0"
+      "plan":"heroku-postgresql"
     }
   ]
-}
+     }
