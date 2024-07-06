@@ -17,7 +17,7 @@
     {
       "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
       "value":"yes",
-      "required":false
+      "required":true 
     }, "AUTO_DOWNLOAD_STATUS":
     {
       "description":"Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
@@ -36,21 +36,21 @@
        
       "description":"put A name for your bot",
       "value":" 𝐁𝐌𝐖-𝐗𝐌𝐃",
-      "required":false
+      "required":true 
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/7d07f6bb6562e3c7b9599.mp4",
-      "required":false
+      "value":"https://wa.me/233591856630",
+      "required":true 
        
      },
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
       "value":"yes",
-      "required":false
+      "required":true 
     }
 	,
     "HEROKU_APY_KEY": {
@@ -67,7 +67,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID, the code you received after pairing code",   
-      "value":"",
+      "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSUhMMXV3bWs3ZzBsRzlJT0xpZ1dQeFFLRGtkMzluemV3WDVFSm1pQTBFQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRHhDTWl2bnNCalA0MXV0VEE1alZuSzZDckFMR2phb3dxVWhZb0ZFaExqRT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJVSzljaC9kM0krUjZDUUFPcy9QS3hDVHhYcEQ4MUlSaE5iWXdNTlZpcDFjPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI5dy9xczBITmx6a2YzWDl4dldGU0dyRFZFcVdqSHJlaDlTSlZxUWc2UGxVPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkNPNCtnT2ZWb1VIelhwSEpkeDcvK1pwQitlUG5pcmVVdCt1Y05OMUtIVmM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkVDeExzVEJudTZEOTBCazNDS2J4dEs2VjBkd0xZS0FYcGZOQzZpSkhJRVU9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiY0tMaEtYdzZPYk94cVNWWk9laytodnNiaXA4dGgvZVZPQ1plOHpOeHZFRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoia25iV2h2bXRhdlM5U2g5TUcxdG5vQ2o0SHFmaHJOd1Q1NjlsVTBRUU5UWT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjBTRUJtSE95TjZBK1pzTUNXWGRrU1JNYndoMUxMRWlMTlAwNGxRdGNTKytWalYrQTh1WHZzdUZTT2owZ2lIV2V3dGZUYWJxVUxmcXNRRHlYMmZSNGlBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NzcsImFkdlNlY3JldEtleSI6ImdWb1pKR3FYQ2l4WTFKaldFVmlvL2ozaC8vNTRpT2N3azcwYTBONFkzb289IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6IlJmRjROUTRRUzZtMjRaenczMXdRRGciLCJwaG9uZUlkIjoiZmEzNzEzODUtNGY0MC00NjZkLTk4OWYtNjA5MGJjMDA2MDEwIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Iks3NlVBeUh3dGpjUkZkSC9kNGVHWXo0L1BaZz0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ2YkVSL2xmSDJWRGUrdGEwK21UUGIydFN6Q2M9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiOUszU1dWRjciLCJtZSI6eyJpZCI6IjIzMzU1NzAxMTg4MjoxMkBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDS2JYa2RRQkVLZXVwclFHR0FFZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiajN2WXVKUENicU1UbXFNYXZ1Z2NqZmh0M2c1UVZJbHpiVFRJazI1cEpXWT0iLCJhY2NvdW50U2lnbmF0dXJlIjoiZVNIOG5jWG4wOEtrcUJoZ2wvVU5pcUg2cHQ4WEdURjc3YmloSC82Z3kwWWNhWURsYXd5RG9ORWdwQmxLblMweVBWUWdJS3RRL05MbDU4dmVXZFlTQnc9PSIsImRldmljZVNpZ25hdHVyZSI6IjdqRG5RNGNaVU1MYVRYWG1PRlZoeU03Mk9zejlwaVVVbWFmRWMrME1pSEdxZEZhSDBFcGpwWWkzc2JkT0xxUWxibmh4OGNUelJRTHVCMGJwNm9PZGhnPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjMzNTU3MDExODgyOjEyQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlk5NzJMaVR3bTZqRTVxakdyN29ISTM0YmQ0T1VGU0pjMjAweUpOdWFTVm0ifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjAyOTMxNzJ9",
       "required":true
       
     },
@@ -75,7 +75,7 @@
     {
     
     "desc": "Your Name",
-    "required": false,
+    "required": true,
     "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
   },
     "NUMERO_OWNER":
@@ -83,13 +83,13 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254739937062,254710772666"
+    "value": "233591856630"
   },
     "WARN_COUNT":
   {
     "desc": "this is the limit of warn for warning commandes",
-    "required": false,
-    "value": "3"
+    "required": true,
+    "value": "88"
   },
   "STARTING_BOT_MESSAGE":
   {
@@ -99,13 +99,13 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",  
-    "required": false
+    "value":"2",  
+    "required": true 
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "no",
-    "required": false
+    "value": "yes",
+    "required": true 
   }
   },
 
