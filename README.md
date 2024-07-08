@@ -13,16 +13,16 @@
 <a href="https://github.com/ibrahimaitech/BMW-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/ibrahimaitech/BMW-MD?style=social"></a>
 <a href="https://github.com/ibrahimaitech/BMW-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ibrahimaitech/BMW-MD?label=Watching&style=social"></a>
 </p>></a>                     
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center">  SESSION SITE 
+
+ <h1 align="center"> TAP HERE👇👇GET SESSION
 
 </p>
 
 <a href="https://github.com/IBRAHIM-TECH-AI/SESSION-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 ## Support 🧧 🧧 🧧 🧧
-## Join my channel for updates and get free cc
+## Join my channel for updates
 <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
@@ -38,8 +38,6 @@ HOW TO REACH THE OWNER?
    <a
 
     ## Ask any thing
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 </p>
 
@@ -48,7 +46,7 @@ HOW TO REACH THE OWNER?
 
 1, Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/BMW-MD/fork)
 
-2, TAP ON IBRAHIM TECH APP DOWN THERE
+2, TAP ON GET SESSIONS
 
 
 
@@ -60,8 +58,7 @@ HOW TO REACH THE OWNER?
 
 </p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 </p>
 
@@ -72,8 +69,7 @@ HOW TO REACH THE OWNER?
 <a href="https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEVELOPER-INFO -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
    
   
 
@@ -92,5 +88,4 @@ The *BMW-MD* is released under the [MIT License](https://opensource.org/licenses
 
 Enjoy the diverse features of the *BMW-MD*  to enhance your Whatsapp more enjoyable
 ☣Powered by Ibrahim Tech
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+.
