@@ -1,20 +1,18 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> BMW V6 MD (HEROKU BAN FIXED) </h1>
-   
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-      
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+𝗕𝗠𝗪+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗜𝗕𝗥𝗔𝗛𝗜𝗠)](https://git.io/typing-svg)
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- 
-<p align="center"> BMW MD💥, A Simple WhatsApp user BOT, Created by Ibrahim Tech.
+<p align="center">  
+  <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/679935f170955bdf769af.jpg">
+    <h1 align="center">BMW MD BEST WABOT</h1>
+  </a>
 </p>
 <p align="center">
-
-
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/3c753002fab985c1cb1e7.jpg" alt="01" border="0" /></a>                     
+<a href="https://github.com/ibrahimaitech"><img title="Author" src="https://img.shields.io/badge/ibrahimaitech-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/25471077266"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<p/>
+<p align="center">
+<a href="https://github.com/ibrahimaitech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/ibrahimaitech?label=Followers&style=social"></a>
+<a href="https://github.com/ibrahimaitech/BMW-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ibrahimaitech/BMW-MD?&style=social"></a>
+<a href="https://github.com/ibrahimaitech/BMW-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/ibrahimaitech/BMW-MD?style=social"></a>
+<a href="https://github.com/ibrahimaitech/BMW-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ibrahimaitech/BMW-MD?label=Watching&style=social"></a>
+</p>></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center">  SESSION SITE 
 
