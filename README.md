@@ -27,7 +27,7 @@
 </p>
 
 
-<a href="https://www.clever-cloud.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑫𝑬𝑷𝑳𝑶𝒀-𝑪𝑳𝑬𝑽𝑬𝑹 -h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://www.clever-cloud.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑫𝑬𝑷𝑳𝑶𝒀_𝑶𝑵-𝑪𝑳𝑬𝑽𝑬𝑹 -h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 </p>
 
