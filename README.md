@@ -20,6 +20,18 @@
 
 <a href="https://github.com/IBRAHIM-TECH-AI/SESSION-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
+</p>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]()
+
+</p>
+
+<a href="https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEVELOPER-INFO -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+
+
+   
+
 
 ## Support 🧧 🧧 🧧 🧧
 ## Join my channel for updates
@@ -60,17 +72,9 @@ HOW TO REACH THE OWNER?
 
 
 
-</p>
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/ibrahimaitech/bmw-bot&template=https://github.com/ibrahimaitech/bmw-bot/tree/main)
-
-</p>
-
-<a href="https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEVELOPER-INFO -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 
-   
   
 
 </p>
