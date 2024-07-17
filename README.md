@@ -22,7 +22,7 @@
 
 </p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/ibraahadam/BMW-MD&template=https://github.com/ibrahimaitech/bwm-md/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/ibraahadam/BMW-MD&template=https://github.com/ibraahadam/BMW-MD/tree/main)
 
 </p>
 
