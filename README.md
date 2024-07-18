@@ -22,21 +22,21 @@
 
 </p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/ibraahadam/BMW-MD&template=https://github.com/ibraahadam/BMW-MD/tree/main)
+- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/ibraahadam/BMW-MD&template=https://github.com/ibraahadam/BMW-MD/tree/main"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 </p>
 
 
-<a href="https://www.clever-cloud.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑫𝑬𝑷𝑳𝑶𝒀_𝑶𝑵-𝑪𝑳𝑬𝑽𝑬𝑹 -h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://www.clever-cloud.com/"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON CLEVER-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 </p>
 
 
-- <a href="https://render.com"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY NOW-h?color=grey&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://render.com"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON RENDER-h?color=grey&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 </p>
 
-- <a href="https://uptimerobot.com"><img title="Run it on uptime" src="https://img.shields.io/badge/CREATE NOW-h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://uptimerobot.com"><img title="Run it on uptime" src="https://img.shields.io/badge/RUN ON UPTIME-h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 </p>
 
