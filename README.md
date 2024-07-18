@@ -31,10 +31,14 @@
 
 </p>
 
-<a href="https://github.com/actions/new"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/Deploy_On_Github -h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+- <a href="https://render.com"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY NOW-h?color=grey&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 </p>
 
+- <a href="https://uptimerobot.com"><img title="Run it on uptime" src="https://img.shields.io/badge/CREATE NOW-h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+</p>
 
 <a href="https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEVELOPER-INFO -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
