@@ -27,7 +27,7 @@ jobs:
         node-version: ${{ matrix.node-version }}
 
     - name: Install dependencies
-      run: npm install -g pm2 && npm i --legacy-peer-deps
+      run: npm install -g pm2 &&  npm install
 
     - name: Start application
       run: npm run bmwmd
