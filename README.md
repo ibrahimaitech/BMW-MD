@@ -16,9 +16,11 @@
 
    <h1 align="center">                      𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔 𝑪𝒐𝒅𝒆
 
-</p>
+</pr>
+- <a href="https://bmw-md-f329b3a0ce76.herokuapp.com/pair"><img title="HEROKU SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
-- <a href="https://render-session-scanner-by-ibrahim-adams.onrender.com/"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+- <a href="https://render-session-scanner-by-ibrahim-adams.onrender.com/"><img title="ONRENDER SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 </p>
