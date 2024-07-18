@@ -18,7 +18,8 @@
 
 </p>
 
-<a href="https://github.com/IBRAHIM-TECH-AI/SESSION-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://render-session-scanner-by-ibrahim-adams.onrender.com/"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
 
 </p>
 
@@ -40,7 +41,8 @@
 
 </p>
 
-<a href="https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEVELOPER-INFO -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
 
 
 </p>
