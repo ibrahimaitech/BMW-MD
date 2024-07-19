@@ -59,7 +59,6 @@
    
 ##
 
-[`TO DEPLOY ON GITHUB TAP ON ACTION UP THERE`]
 
 ## Support 🧧 🧧 🧧 🧧
 ## Join my channel for updates
