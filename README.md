@@ -1,5 +1,5 @@
 
-# This repo is will no longer be updated tap here open new one👇👇
+# This repo is will no longer be updated tap on open new repo
 <p align="center">  
  <a href="https://github.com/devibraah/BWM-XMD"><img title="Open New repo" src="https://img.shields.io/badge/Open New Repo-h?color=pink&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
