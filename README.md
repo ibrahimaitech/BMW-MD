@@ -1,3 +1,8 @@
+# This repo is will no longer be updated tap here open new one👇👇
+
+
+- <a href="https://github.com/devibraah/BWM-XMD"><img title="Open New repo" src="https://img.shields.io/badge/Open New Repo-h?color=pink&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y">
     <img alt="wasi" height="300" src="https://telegra.ph/file/679935f170955bdf769af.jpg">
@@ -22,15 +27,15 @@
 
 
 </a></p>
-- <a href="https://bmw-md-f329b3a0ce76.herokuapp.com/pair"><img title="HEROKU SESSION" src="https://img.shields.io/badge/HEROKU SESSION-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
-- <a href="https://render-session-scanner-by-ibrahim-adams.onrender.com/"><img title="ONRENDER SESSION" src="https://img.shields.io/badge/ONRENDER SESSION-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+- <a href="https://render-session-scanner-by-ibrahim-adams.onrender.com/"><img title="ONRENDER SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 </p>
 
-- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/ibraahadam/BMW-MD&template=https://github.com/ibraahadam/BMW-MD/tree/main"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/devibraah/BWM-XMD"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 
